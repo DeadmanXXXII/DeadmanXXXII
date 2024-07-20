@@ -7,8 +7,7 @@
 - ⚡ Fun fact: I wrote a Cv in markdown.
 
 # Blu Corbel Curriculum Vitae
-
-**Address:** 21f Campbell Court, Ayr, UK   
+   
 **Email:** themadhattersplayground@gmail.com  
 
 **LinkedIn:** [Blu Corbel](https://www.linkedin.com/in/blu-corbel-bb5700265)  

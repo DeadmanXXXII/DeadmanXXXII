@@ -8,8 +8,7 @@
 
 # Blu Corbel Curriculum Vitae
 
-**Address:** 21f Campbell Court, Ayr, UK  
-**Phone:** +447576285686  
+**Address:** 21f Campbell Court, Ayr, UK   
 **Email:** themadhattersplayground@gmail.com  
 
 **LinkedIn:** [Blu Corbel](https://www.linkedin.com/in/blu-corbel-bb5700265)  

@@ -36,7 +36,7 @@ A dynamic and certified Information, Network, and Cyber Security Lead or Team me
 - Certified Associate in Project Management (CAPM)
 - Blockchain Developer
 - **Data Scientist:** R, Rust, C, Python, SQL
-- **Certified in Advanced Proficiency Languages:** Go, Golang, Serpent, C++, MPLS, Ruby, Full Stack Development
+- **Certified to Advanced Proficiency in Languages:** Go, Golang, Serpent, C++, MPLS, Ruby, Full Stack
 
 ## Technical Skills
 

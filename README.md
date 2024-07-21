@@ -7,7 +7,8 @@
 - ⚡ Fun fact: I wrote a Cv in markdown.
 
 # Blu Corbel Curriculum Vitae
-   
+
+**Address:** Ayr, Scotland, UK  
 **Email:** themadhattersplayground@gmail.com  
 
 **LinkedIn:** [Blu Corbel](https://www.linkedin.com/in/blu-corbel-bb5700265)  
@@ -33,10 +34,11 @@ A dynamic and certified Information, Network, and Cyber Security Lead or Team me
 - Certified in API Penetration Testing
 - Certified in Networking CCNA
 - Certified in API Attached Cars and Fleets
-- Certified Associate in Project Management (CAPM)
 - Blockchain Developer
 - **Data Scientist:** R, Rust, C, Python, SQL
-- **Certified to Advanced Proficiency in Languages:** Go, Golang, Serpent, C++, MPLS, Ruby, Full Stack
+- **Certified to Advanced Proficiency in Languages:** Go, Golang, Serpent, C++, MPLS, Ruby, Full Stack Development
+- NVQ in Security Managemaent
+- Certified Associate in Project Management (CAPM)
 
 ## Technical Skills
 
@@ -46,6 +48,7 @@ A dynamic and certified Information, Network, and Cyber Security Lead or Team me
 - Certified in firewall administration and management.
 - Certified Azure DevOps Pipeline.
 - Advanced skills in full and section audits, demonstrating exceptional attention to detail.
+- Highly skilled with cryptology
 
 ## Professional Experience
 
@@ -80,4 +83,3 @@ Ready to relocate to anywhere.
 ### [Canva Interactive CV with Live Links](https://www.canva.com/design/DAF_HoVvIJk/PuoOIXPYxlk3CNCCDNEhFw/view?utm_content=DAF_HoVvIJk&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ### [Credly Badges](https://www.credly.com/users/blu-corbel.9d1923db)
-

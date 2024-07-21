@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Anything.
 - 📫 How to reach me Currriculum Vitae
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I wrote a Cv in markdown.
+- ⚡ Fun fact: I wrote a CV in markdown.
 
 # Blu Corbel Curriculum Vitae
 

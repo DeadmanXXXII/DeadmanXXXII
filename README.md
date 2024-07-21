@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeadmanXXXII
 - 👀 I’m interested in Everything. 
-- 🌱 I’m currently learning Malware and ransomeware reverse engineering.
+- 🌱 I’m currently learning Malware and ransomeware Reverse engineering.
 - 💞️ I’m looking to collaborate on Anything.
 - 📫 How to reach me Currriculum Vitae
 - 😄 Pronouns: He/Him

@@ -15,7 +15,8 @@
 ## Welcome to the Profile of DeadmanXXXII 
                                                                                                                                            ### Welcome to the collection of repositories created and managed by DeadmanXXXII AKA Blu Corbel.   
 
-Below you'll find a categorized list of repositories for easy navigation.                                                                                                                       ## Education 
+Below you'll find a categorized list of repositories for easy navigation.      
+                                                                                                                 ## Education 
                                                                                                                                                                                    - [Repository 1 - Free_Education](https://github.com/DeadmanXXXII/Free_Education)        
                                                                                                        ## Attack             
                                                                                                                                                                           - [Repository 1 - Stuxnet](https://github.com/DeadmanXXXII/Stuxnet)                             

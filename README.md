@@ -5,8 +5,11 @@
 - 📫 How to reach me Currriculum Vitae
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts:
+
 - 1: Because of cloud computing the entire cyber, information and technology security, DevOps and more can all be done from a smartphone.
+
 - I ❤️ Nethunter.
+
 - 2: You can use the buttons below to go anywhere in profile because of markdown.
 
 
@@ -16,9 +19,9 @@
                                                                                                                                            ### Welcome to the collection of repositories created and managed by DeadmanXXXII AKA Blu Corbel.   
 
 Below you'll find a categorized list of repositories for easy navigation.      
-                                                                                                                 ## Education 
+                                                                                                                 #### Education 
                                                                                                                                                                                    - [Repository 1 - Free_Education](https://github.com/DeadmanXXXII/Free_Education)        
-                                                                                                       ## Attack             
+                                                                                                       #### Attack             
                                                                                                                                                                           - [Repository 1 - Stuxnet](https://github.com/DeadmanXXXII/Stuxnet)                             
 
 - [Repository 2 - Net-Traveler](https://github.com/DeadmanXXXII/Net-traveler)                   
@@ -52,7 +55,7 @@ Below you'll find a categorized list of repositories for easy navigation.
 - [Repository 16 - TheZoo Malware_Education](https://github.com/DeadmanXXXII/TheZoo)            
 
 - [Repository 17 - Cookie_Monster](https://github.com/DeadmanXXXII/Cookie_Monster)  
-                                                                                                            ## Defence       
+                                                                                                            #### Defence       
                                                                                                                                                                                - [Repository 1 - Labyrinth](https://github.com/DeadmanXXXII/Labyrinth)                         
 
 - [Repository 2 - Ransomeware_Defense](https://github.com/DeadmanXXXII/Ransomeware_Defense)     
@@ -76,16 +79,16 @@ Below you'll find a categorized list of repositories for easy navigation.
                                                                                             - [Repository 2 - Ansible_instrucions](https://github.com/DeadmanXXXII/Ansible_instrucions)     
 
 - [Repository 3 - Cloud_decision_making_units](https://github.com/DeadmanXXXII/Cloud_decision_making_units)    
-                                                                                                                                                                                 ## Blockchains            
+                                                                                                                                                                                 #### Blockchains            
                                                                       - [Repository 1 - Metaverse-and-Components](https://github.com/DeadmanXXXII/Metaverse-and-Components)  
                                                                                          - [Repository 2 - Producing_Blocks](https://github.com/DeadmanXXXII/Producing_Blocks)           
 
 - [Repository 3 - Token_Images_metadata](https://github.com/DeadmanXXXII/Token_Images_metadata) 
 
 - [Repository 4 - token-list](https://github.com/DeadmanXXXII/token-list)                
-                                                                                                                                                                                                       ## Games                          
+                                                                                                                                                                                                       #### Games                          
                                                                                                                                                               - [Repository 1 - Code-Yourself-Games](https://github.com/DeadmanXXXII/Code-Yourself-Games)   
-                                                                                                                                                                                                  ## Misc                        
+                                                                                                                                                                                                  #### Misc                        
                                                                                                                                                                  - [Repository 1 - Labyrinth_Dev-Betas](https://github.com/DeadmanXXXII/Labyrinth_Dev-Betas)     
 
 - [Repository 2 - In-Devops](https://github.com/DeadmanXXXII/In-Devops)                         

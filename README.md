@@ -61,7 +61,7 @@
 
 - [Repository 17 - Cookie_Monster](https://github.com/DeadmanXXXII/Cookie_Monster)
 
-- [Repository 18 - Cipher_Block_Scann](https://github.com/DeadmanXXXII/Ciphe_block_scanner)  
+- [Repository 18 - Cipher_Block_Scan](https://github.com/DeadmanXXXII/Ciphe_block_scanner)  
                             
 #### Defence       
 

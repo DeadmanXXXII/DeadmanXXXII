@@ -21,8 +21,9 @@
 
 - [Repository 1 - Free_Education](https://github.com/DeadmanXXXII/Free_Education) 
 
-#### CLI's       
-                 
+#### CLI's
+       
+Operating system CLI's:              
 - [Repository 1 - Cmdprompt](https://github.com/DeadmanXXXII/Cmdprompt)   
 
 - [Repository 2 - Powershell](https://github.com/DeadmanXXXII/Powershell)        
@@ -34,62 +35,74 @@
 - [Repository 5 - Kali](https://github.com/DeadmanXXXII/Kali)        
                   
 - [Repository 6 - Parrot](https://github.com/DeadmanXXXII/Parrot)
+                                                                     
+- [Repository 7 - MacOS](https://github.com/DeadmanXXXII/MacOS)        
+                  
 
-Sub-systems:      
-                
-- [Repository 7 - WSL](https://github.com/DeadmanXXXII/WSL)        
+Sub-systems:                      
+- [Repository 8 - WSL](https://github.com/DeadmanXXXII/WSL)        
                              
-- [Repository 8 - Wine](https://github.com/DeadmanXXXII/Wine)        
+- [Repository 9 - Wine](https://github.com/DeadmanXXXII/Wine)        
                             
-- [Repository 9 - ADB](https://github.com/DeadmanXXXII/ADB)        
-                                                                       
-- [Repository 10 - MacOS](https://github.com/DeadmanXXXII/MacOS)        
+- [Repository 10 - ADB](https://github.com/DeadmanXXXII/ADB)                                                                              
                   
 - [Repository 11 - AIX](https://github.com/DeadmanXXXII/AIX)
 
-- [Repository 12 - BSD free and open](https://github.com/DeadmanXXXII/BSD)   
+- [Repository 12 - BSD free and open](https://github.com/DeadmanXXXII/BSD) 
 
+- [Repository 13 - Travis](https://github.com/DeadmanXXXII/Travis)
+
+- [Repository 14 - Iterm2](https://github.com/DeadmanXXXII/Iterm2)
+
+- [Repository 15 - Cygwin](https://github.com/DeadmanXXXII/Cygwin)
+
+- [Repository 16 - Mysys2](https://github.com/DeadmanXXXII/Mysys2)
+
+  
 Cloud systems:                            
+- [Repository 17 - AWS](https://github.com/DeadmanXXXII/AWS)  
 
-- [Repository 13 - AWS](https://github.com/DeadmanXXXII/AWS)  
-
-- [Repository 14 - Azure](https://github.com/DeadmanXXXII/Azure)        
+- [Repository 18 - Azure](https://github.com/DeadmanXXXII/Azure)        
                                 
-- [Repository 15 - GCP](https://github.com/DeadmanXXXII/GCP)
+- [Repository 19 - GCP](https://github.com/DeadmanXXXII/GCP)
+
 
 Networking and Virtualization:
-                              
-- [Repository 16 - Networking](https://github.com/DeadmanXXXII/Networking)
+- [Repository 21 - Networking](https://github.com/DeadmanXXXII/Networking)
                             
-- [Repository 17 - Kubernautes](https://github.com/DeadmanXXXII/Kubernautes) 
+- [Repository 22 - Kubernautes](https://github.com/DeadmanXXXII/Kubernautes) 
                          
-- [Repository 18 - Proxmox](https://github.com/DeadmanXXXII/Proxmox) 
+- [Repository 23 - Proxmox](https://github.com/DeadmanXXXII/Proxmox) 
 
-- [Repository 19 - Docker + Swarm](https://github.com/DeadmanXXXII/Docker)
+- [Repository 24 - Docker + Swarm](https://github.com/DeadmanXXXII/Docker)
 
-- [Repository 20 - Vagrant](https://github.com/DeadmanXXXII/Vagrant)  
+- [Repository 25 - Vagrant](https://github.com/DeadmanXXXII/Vagrant)
 
-- [Repository 21 - Jenkins](https://github.com/DeadmanXXXII/Jenkins)  
+- [Repository 26 - Vbox](https://github.com/DeadmanXXXII/Vbox)
 
-- [Repository 22 - Git-Gitlab](https://github.com/DeadmanXXXII/Git-Gitlab)  
-               
-- [Repository 23 - Apache-2-mesos](https://github.com/DeadmanXXXII/Apache-2-mesos) 
+- [Repository 27 - Vmware](https://github.com/DeadmanXXXII/Vmare)
 
-- [Repository 24 - Travis](https://github.com/DeadmanXXXII/Travis)
+- [Repository 28 - Apache-2-mesos](https://github.com/DeadmanXXXII/Apache-2-mesos) 
 
-- [Repository 25 - Iterm2](https://github.com/DeadmanXXXII/Iterm2)
+Servers:  
+- [Repository 29 - Jenkins](https://github.com/DeadmanXXXII/Jenkins)  
 
-- [Repository 26 - Cygwin](https://github.com/DeadmanXXXII/Cygwin)
+- [Repository 30 - Git-Gitlab](https://github.com/DeadmanXXXII/Git-Gitlab)  
 
-- [Repository 27 - Mysys2](https://github.com/DeadmanXXXII/Mysys2)
+- [Repository 31 - Node.js](https://github.com/DeadmanXXXII/Node.js)
 
-- [Repository 28 - Node.js](https://github.com/DeadmanXXXII/Node.js)
-
+- [Repository 32 - SQL](https://github.com/DeadmanXXXII/SQL)
 
 
+IDE's:
+- [Repository 33 - Python](https://github.com/DeadmanXXXII/Python)
+
+- [Repository 34 - Java](https://github.com/DeadmanXXXII/Java)
+
+Multiple interface compilations:
+- [Repository 35 - Oracle](https://github.com/DeadmanXXXII/Oracle)
 
                                                                                        
-   
 #### Attack            
 
 - [Repository 1 - Stuxnet](https://github.com/DeadmanXXXII/Stuxnet)                             

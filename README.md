@@ -45,7 +45,10 @@
                                                                        
 - [Repository 11 - MacOS](https://github.com/DeadmanXXXII/MacOS)        
                   
-- [Repository 12 - AIX](https://github.com/DeadmanXXXII/AIX)        
+- [Repository 12 - AIX](https://github.com/DeadmanXXXII/AIX)
+
+- [Repository 13 - BSD free and open](https://github.com/DeadmanXXXII/BSD)        
+                          
                   
                  
    

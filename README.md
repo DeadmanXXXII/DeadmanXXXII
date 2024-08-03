@@ -24,7 +24,8 @@
 #### Education
 
 - [Repository 1 - Free_Education](https://github.com/DeadmanXXXII/Free_Education)        
-                       
+                    
+   
 #### Attack            
 
 - [Repository 1 - Stuxnet](https://github.com/DeadmanXXXII/Stuxnet)                             
@@ -64,6 +65,7 @@
 - [Repository 18 - Cipher_Block_Scan](https://github.com/DeadmanXXXII/Ciphe_block_scanner)
 
 - [Repository 19 - Scraped](https://github.com/DeadmanXXXII/Scraped)  
+
                             
 #### Defence       
 
@@ -81,15 +83,17 @@
 
 - [Repository 7 - Dragons_Lair](https://github.com/DeadmanXXXII/Dragons_Lair)                   
 
-- [Repository 8 - nginx_server_conf-files](https://github.com/DeadmanXXXII/nginx_server_conf-files)  
+- [Repository 8 - Encryption](https://github.com/DeadmanXXXII/Encryption)                       
 
-- [Repository 9 - Encryption](https://github.com/DeadmanXXXII/Encryption)                       
+- [Repository 9 - Decryption](https://github.com/DeadmanXXXII/Decryption)
 
-- [Repository 10 - Decryption](https://github.com/DeadmanXXXII/Decryption)
 
 #### Secure Servers
 
 - [Repository 1 - MySQL_AWS-RDS_Server](https://github.com/DeadmanXXXII/MySql_AWS-RDS_Secure_Server)
+
+- [Repository 2 - nginx_server_conf-files](https://github.com/DeadmanXXXII/nginx_server_conf-files)  
+
 
                                 
 #### Information-Transitions      
@@ -103,6 +107,7 @@
 - [Repository 4 - GitNav](https://github.com/DeadmanXXXII/GitNav)
  
 - [Repository 5 - Applied](https://github.com/DeadmanXXXII/Applied)
+
  
 #### Blockchains            
 
@@ -112,11 +117,13 @@
 
 - [Repository 3 - Token_Images_metadata](https://github.com/DeadmanXXXII/Token_Images_metadata) 
 
-- [Repository 4 - token-list](https://github.com/DeadmanXXXII/token-list)                
+- [Repository 4 - token-list](https://github.com/DeadmanXXXII/token-list)   
+             
                                  
 #### Games                          
                                      
 - [Repository 1 - Code-Yourself-Games](https://github.com/DeadmanXXXII/Code-Yourself-Games)   
+
                                        
 #### Misc                     
 

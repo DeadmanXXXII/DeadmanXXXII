@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @DeadmanXXXII
 - 👀 I’m interested in Offensive Security. 
 - 🌱 I’m currently learning Malware and ransomeware Reverse engineering.
-- 💞️ I’m looking to collaborate on Anything.
-- 📫 How to reach me Currriculum Vitae
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts:
 
@@ -53,9 +51,10 @@
 
 - [Repository 15 - Azure](https://github.com/DeadmanXXXII/Azure)        
                                 
-- [Repository 16 - GCP](https://github.com/DeadmanXXXII/GCP)        
-                                
-                                        
+- [Repository 16 - GCP](https://github.com/DeadmanXXXII/GCP)
+                              
+- [Repository 17 - Networking](https://github.com/DeadmanXXXII/Networking)        
+                                                                                             
    
 #### Attack            
 

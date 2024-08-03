@@ -82,9 +82,9 @@ Networking and Virtualization:
 
 - [Repository 27 - Vmware](https://github.com/DeadmanXXXII/Vmare)
 
+Servers:
 - [Repository 28 - Apache-2-mesos](https://github.com/DeadmanXXXII/Apache-2-mesos) 
-
-Servers:  
+  
 - [Repository 29 - Jenkins](https://github.com/DeadmanXXXII/Jenkins)  
 
 - [Repository 30 - Git-Gitlab](https://github.com/DeadmanXXXII/Git-Gitlab)  
@@ -101,6 +101,16 @@ IDE's:
 
 Multiple interface compilations:
 - [Repository 35 - Oracle](https://github.com/DeadmanXXXII/Oracle)
+
+- [Repository 36 - Red Hat Enterprise](https://github.com/DeadmanXXXII/RedHat) 
+
+Builders:
+- [Repository 37 - APK](https://github.com/DeadmanXXXII/APK)
+
+- [Repository 38 - SDK](https://github.com/DeadmanXXXII/SDK)
+
+- [Repository 39 - Terraform](https://github.com/DeadmanXXXII/Terraform)
+ 
 
                                                                                        
 #### Attack            

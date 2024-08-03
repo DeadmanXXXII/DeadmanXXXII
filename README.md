@@ -86,7 +86,11 @@
 - [Repository 9 - Encryption](https://github.com/DeadmanXXXII/Encryption)                       
 
 - [Repository 10 - Decryption](https://github.com/DeadmanXXXII/Decryption)
-  
+
+#### Secure Servers
+
+- [Repository 1 - MySQL_AWS-RDS_Server](https://github.com/DeadmanXXXII/MySql_AWS-RDS_Secure_Server)
+
                                 
 #### Information-Transitions      
 

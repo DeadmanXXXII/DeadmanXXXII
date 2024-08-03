@@ -51,12 +51,11 @@
 
 - [Repository 14 - AWS](https://github.com/DeadmanXXXII/AWS)  
 
-
 - [Repository 15 - Azure](https://github.com/DeadmanXXXII/Azure)        
                                 
-                          
-                  
-                 
+- [Repository 16 - GCP](https://github.com/DeadmanXXXII/GCP)        
+                                
+                                        
    
 #### Attack            
 

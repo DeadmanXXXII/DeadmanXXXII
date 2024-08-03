@@ -95,6 +95,9 @@
 - [Repository 2 - nginx_server_conf-files](https://github.com/DeadmanXXXII/nginx_server_conf-files)  
 
 
+- [Repository 3 - Postgre_SQL_Azure](https://github.com/DeadmanXXXII/PostgreSQL_Azure_server)  
+
+
                                 
 #### Information-Transitions      
 

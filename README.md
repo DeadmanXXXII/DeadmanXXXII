@@ -18,6 +18,8 @@ Computer science algorithms and concepts of use:
 
 - [Repository 1 - Algorithms](https://github.com/DeadmanXXXII/Algorithms)
 
+- [Repository 2 - Gyroscopes](https://github.com/DeadmanXXXII/Gyroscopes)
+
 
 #### CLI's
        

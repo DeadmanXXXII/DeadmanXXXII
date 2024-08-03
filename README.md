@@ -10,7 +10,14 @@ Below is list of repositories, just click.
 
 #### Education
 
-- [Repository 1 - Free_Education](https://github.com/DeadmanXXXII/Free_Education) 
+- [Repository 1 - Free_Education](https://github.com/DeadmanXXXII/Free_Education)
+
+#### Algorithms 
+
+Computer science algorithms and concepts of use:
+
+- [Repository 1 - Algorithms](https://github.com/DeadmanXXXII/Algorithms)
+
 
 #### CLI's
        

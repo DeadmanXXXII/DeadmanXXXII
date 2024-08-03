@@ -1,21 +1,12 @@
-- 👋 Hi, I’m @DeadmanXXXII
+- 👋 Hi, I’m @DeadmanXXXII aka Blu Corbel.
 - 👀 I’m interested in Offensive Security. 
-- 🌱 I’m currently learning Malware and ransomeware Reverse engineering.
-- 😄 Pronouns: He/Him
 - ⚡ Fun facts:
-
-- 1: Because of cloud computing the entire cyber, information and technology security, DevOps and more can all be done from a smartphone.
-
+- 1: The entire cyber and information security industries more can all be done from a smartphone.
 - I ❤️ Nethunter.
-
-- 2: You can use the buttons below to go anywhere in profile because of markdown language.
-
 
 # Navigation              
                                                                             
-### This is a collection of repositories created and managed by DeadmanXXXII AKA Blu Corbel. 
-
-### Below you'll find a categorized list of repositories for easy navigation. Just click.
+Below is list of repositories, just click.
 
 #### Education
 

@@ -112,6 +112,18 @@ Data:
 
 - [Repository 42 - R](https://github.com/DeadmanXXXII/R)
 
+Quantum:
+- [Repository 42 - Qiskit](https://github.com/DeadmanXXXII/Qiskit)
+
+- [Repository 43 - Cirq](https://github.com/DeadmanXXXII/Cirq)
+
+- [Repository 44 - Forest](https://github.com/DeadmanXXXII/Forest)
+
+
+
+
+
+
                                                                                      
 #### Attack            
 

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeadmanXXXII aka Blu Corbel.
 - 👀 I’m interested in Offensive Security. 
 - ⚡ Fun facts:
-- 1: The entire cyber and information security industries more can all be done from a smartphone.
+- 1: The entire cyber and information security industries and more can all be done from a smartphone.
 - I ❤️ Nethunter.
 
 # Navigation              

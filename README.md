@@ -19,55 +19,57 @@
 
 #### Education
 
-- [Repository 1 - Free_Education](https://github.com/DeadmanXXXII/Free_Education)        
-                 
-- [Repository 2 - Cmdprompt](https://github.com/DeadmanXXXII/Cmdprompt)   
+- [Repository 1 - Free_Education](https://github.com/DeadmanXXXII/Free_Education) 
 
-- [Repository 3 - Powershell](https://github.com/DeadmanXXXII/Powershell)        
+#### CLI's       
+                 
+- [Repository 1 - Cmdprompt](https://github.com/DeadmanXXXII/Cmdprompt)   
+
+- [Repository 2 - Powershell](https://github.com/DeadmanXXXII/Powershell)        
                
-- [Repository 4 - Ubuntu](https://github.com/DeadmanXXXII/Ubuntu)
+- [Repository 3 - Ubuntu](https://github.com/DeadmanXXXII/Ubuntu)
 
-- [Repository 5 - Linux](https://github.com/DeadmanXXXII/Linux)        
+- [Repository 4 - Linux](https://github.com/DeadmanXXXII/Linux)        
                  
-- [Repository 6 - Kali](https://github.com/DeadmanXXXII/Kali)        
+- [Repository 5 - Kali](https://github.com/DeadmanXXXII/Kali)        
                   
-- [Repository 7 - Parrot](https://github.com/DeadmanXXXII/Parrot)        
+- [Repository 6 - Parrot](https://github.com/DeadmanXXXII/Parrot)        
                 
-- [Repository 8 - WSL](https://github.com/DeadmanXXXII/WSL)        
+- [Repository 7 - WSL](https://github.com/DeadmanXXXII/WSL)        
                              
-- [Repository 9 - Wine](https://github.com/DeadmanXXXII/Wine)        
+- [Repository 8 - Wine](https://github.com/DeadmanXXXII/Wine)        
                             
-- [Repository 10 - ADB](https://github.com/DeadmanXXXII/ADB)        
+- [Repository 9 - ADB](https://github.com/DeadmanXXXII/ADB)        
                                                                        
-- [Repository 11 - MacOS](https://github.com/DeadmanXXXII/MacOS)        
+- [Repository 10 - MacOS](https://github.com/DeadmanXXXII/MacOS)        
                   
-- [Repository 12 - AIX](https://github.com/DeadmanXXXII/AIX)
+- [Repository 11 - AIX](https://github.com/DeadmanXXXII/AIX)
 
-- [Repository 13 - BSD free and open](https://github.com/DeadmanXXXII/BSD)                                
+- [Repository 12 - BSD free and open](https://github.com/DeadmanXXXII/BSD)                                
 
-- [Repository 14 - AWS](https://github.com/DeadmanXXXII/AWS)  
+- [Repository 13 - AWS](https://github.com/DeadmanXXXII/AWS)  
 
-- [Repository 15 - Azure](https://github.com/DeadmanXXXII/Azure)        
+- [Repository 14 - Azure](https://github.com/DeadmanXXXII/Azure)        
                                 
-- [Repository 16 - GCP](https://github.com/DeadmanXXXII/GCP)
+- [Repository 15 - GCP](https://github.com/DeadmanXXXII/GCP)
                               
-- [Repository 17 - Networking](https://github.com/DeadmanXXXII/Networking)
+- [Repository 16 - Networking](https://github.com/DeadmanXXXII/Networking)
                             
-- [Repository 18 - Kubernautes](https://github.com/DeadmanXXXII/Kubernautes) 
+- [Repository 17 - Kubernautes](https://github.com/DeadmanXXXII/Kubernautes) 
                          
-- [Repository 19 - Proxmox](https://github.com/DeadmanXXXII/Proxmox) 
+- [Repository 18 - Proxmox](https://github.com/DeadmanXXXII/Proxmox) 
 
-- [Repository 20 - Docker + Swarm](https://github.com/DeadmanXXXII/Docker)
+- [Repository 19 - Docker + Swarm](https://github.com/DeadmanXXXII/Docker)
 
-- [Repository 21 - Vagrant](https://github.com/DeadmanXXXII/Vagrant)  
+- [Repository 20 - Vagrant](https://github.com/DeadmanXXXII/Vagrant)  
 
-- [Repository 22 - Jenkins](https://github.com/DeadmanXXXII/Jenkins)  
+- [Repository 21 - Jenkins](https://github.com/DeadmanXXXII/Jenkins)  
 
-- [Repository 23 - Git-Gitlab](https://github.com/DeadmanXXXII/Git-Gitlab)  
+- [Repository 22 - Git-Gitlab](https://github.com/DeadmanXXXII/Git-Gitlab)  
                
-- [Repository 24 - Apache-2-mesos](https://github.com/DeadmanXXXII/Apache-2-mesos) 
+- [Repository 23 - Apache-2-mesos](https://github.com/DeadmanXXXII/Apache-2-mesos) 
 
-- [Repository 25 - Travis](https://github.com/DeadmanXXXII/Travis)  
+- [Repository 24 - Travis](https://github.com/DeadmanXXXII/Travis)  
                                                                                        
    
 #### Attack            

@@ -98,6 +98,8 @@
 
 - [Repository 4 - GitNav](https://github.com/DeadmanXXXII/GitNav)
  
+- [Repository 5 - Applied](https://github.com/DeadmanXXXII/Applied)
+ 
 #### Blockchains            
 
 - [Repository 1 - Metaverse-and-Components](https://github.com/DeadmanXXXII/Metaverse-and-Components)  

@@ -121,6 +121,15 @@ Quantum:
 
 - [Repository 45 - Microsoft QDK](https://github.com/DeadmanXXXII/QDK)
 
+- [Repository 46 - D_wave Ocean](https://github.com/DeadmanXXXII/Dwave)
+
+- [Repository 47 - Xanadu](https://github.com/DeadmanXXXII/Xanadu)
+
+- [Repository 48 - Amazon Braket](https://github.com/DeadmanXXXII/Braket)
+
+- [Repository 48 - Inspire](https://github.com/DeadmanXXXII/Inspire)
+
+- [Repository 49 - t|ket](https://github.com/DeadmanXXXII/t-ket)
 
                                                                                      
 #### Attack            

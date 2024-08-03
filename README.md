@@ -13,11 +13,9 @@
 
 # Navigation              
                                                                             
-## Welcome to the Profile of DeadmanXXXII 
-
 ### This is a collection of repositories created and managed by DeadmanXXXII AKA Blu Corbel. 
 
-### Below you'll find a categorized list of repositories for easy navigation. 
+### Below you'll find a categorized list of repositories for easy navigation. Just click.
 
 #### Education
 

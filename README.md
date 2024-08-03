@@ -33,7 +33,7 @@
 
 - [Repository 5 - Linux](https://github.com/DeadmanXXXII/Linux)        
                  
-- [Repository 6 - Linux](https://github.com/DeadmanXXXII/Kali)        
+- [Repository 6 - Kali](https://github.com/DeadmanXXXII/Kali)        
                   
            
                   

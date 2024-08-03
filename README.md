@@ -35,6 +35,8 @@
                  
 - [Repository 6 - Kali](https://github.com/DeadmanXXXII/Kali)        
                   
+- [Repository 7 - Parrot](https://github.com/DeadmanXXXII/Parrot)        
+                  
            
                   
    

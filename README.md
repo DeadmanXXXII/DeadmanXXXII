@@ -218,6 +218,7 @@ Quantum:
 
 - [Repository 4 - Maria_GCP](https://github.com/DeadmanXXXII/Maria_GCP)  
 
+- [Repository 5 - H2C_Servers](https://github.com/DeadmanXXXII/H2C_Servers)  
 
                                 
 #### Information-Transitions      
@@ -260,7 +261,3 @@ Quantum:
 - [Repository 4 - 5-day-coding-challenge](https://github.com/DeadmanXXXII/5-day-coding-challenge)
 
 - [Repository 5 - UniversalMatrix](https://github.com/DeadmanXXXII/UniversalMatrix)
-
-
-- [Repository 5 - Home_Cloud](https://github.com/DeadmanXXXII/Home_Cloud)
-

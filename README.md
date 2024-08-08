@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @DeadmanXXXII aka Blu Corbel.
-- 👀 I’m interested in Offensive Security. 
-- ⚡ Fun facts:
-- 1: The entire cyber and information security industries and more can all be done from a smartphone.
+- 👀 I’m interested in Offensive Security.
 - I ❤️ Nethunter.
 
 # Navigation              
@@ -263,4 +261,6 @@ Quantum:
 
 - [Repository 5 - UniversalMatrix](https://github.com/DeadmanXXXII/UniversalMatrix)
 
+
+- [Repository 5 - Home_Cloud](https://github.com/DeadmanXXXII/Home_Cloud)
 

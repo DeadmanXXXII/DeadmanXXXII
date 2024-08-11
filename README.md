@@ -261,3 +261,5 @@ Quantum:
 - [Repository 4 - 5-day-coding-challenge](https://github.com/DeadmanXXXII/5-day-coding-challenge)
 
 - [Repository 5 - UniversalMatrix](https://github.com/DeadmanXXXII/UniversalMatrix)
+
+- [Repository 6 - Hunter](https://github.com/DeadmanXXXII/Hunter-HunterGPT)

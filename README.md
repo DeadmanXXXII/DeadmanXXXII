@@ -16,12 +16,150 @@ Computer science algorithms and concepts of use:
 
 - [Repository 1 - Algorithms](https://github.com/DeadmanXXXII/Algorithms)
 
-- [Repository 2 - Gyroscopes](https://github.com/DeadmanXXXII/Gyroscopes)
+- [Repository 2 - Gyroscopes](https://github.com/DeadmanXXXII/Gyroscopes)                                                                    
+#### Attack            
+
+My custom and pre-built matrix of script attacks. If I'm the only collaborative I built it.
+
+- [Repository 1 - Stuxnet](https://github.com/DeadmanXXXII/Stuxnet)                             
+
+- [Repository 2 - Net-Traveler](https://github.com/DeadmanXXXII/Net-traveler)                   
+
+- [Repository 3 - Sybil_0day](https://github.com/DeadmanXXXII/Sybil)                            
+
+- [Repository 4 - Shamoon](https://github.com/DeadmanXXXII/Shamoon)                             
+
+- [Repository 5 - Disruption_0Day](https://github.com/DeadmanXXXII/Disruption)                  
+
+- [Repository 6 - Token_Attacks](https://github.com/DeadmanXXXII/Token_Attacks)                 
+
+- [Repository 7 - Frankenstein_0day](https://github.com/DeadmanXXXII/Frankenstein)              
+
+- [Repository 8 - LOLsec_0day](https://github.com/DeadmanXXXII/LOLsec)                          
+
+- [Repository 9 - Gypsy'sGrab_0Day](https://github.com/DeadmanXXXII/GypsysGrab_Attack)          
+
+- [Repository 10 - Ransomeware-0Day](https://github.com/DeadmanXXXII/Ransomeware)               
+
+- [Repository 11 - Websocket_CLI](https://github.com/DeadmanXXXII/Web_Socket_Command_CLI)       
+
+- [Repository 12 - KubeCloud_0Day](https://github.com/DeadmanXXXII/Kubecloud)                   
+
+- [Repository 13 - BlackMambaC2](https://github.com/DeadmanXXXII/BlackMamba)                    
+
+- [Repository 14 - Clickjacks](https://github.com/DeadmanXXXII/Clickjacking)                    
+
+- [Repository 15 - Shell_Don](https://github.com/DeadmanXXXII/Shell_Don)                        
+
+- [Repository 16 - TheZoo Malware_Education](https://github.com/DeadmanXXXII/TheZoo)            
+
+- [Repository 17 - Cookie_Monster](https://github.com/DeadmanXXXII/Cookie_Monster)
+
+- [Repository 18 - Cipher_Block_Scan](https://github.com/DeadmanXXXII/Ciphe_block_scanner)
+
+- [Repository 19 - Scraped](https://github.com/DeadmanXXXII/Scraped)  
+
+- [Repository 20 - SQL_injections](https://github.com/DeadmanXXXII/SQL-injections)  
+
+- [Repository 21 - Google_Dorks](https://github.com/DeadmanXXXII/Dorks)  
+- [Repository 21 - SSHcheck](https://github.com/DeadmanXXXII/SSHcheck)
+
+                            
+#### Defence   
+
+I built my own defense systems too most are integrable with other services including task managers and boot sequences.
+
+
+- [Repository 1 - Labyrinth](https://github.com/DeadmanXXXII/Labyrinth)                         
+
+- [Repository 2 - Ransomeware_Defense](https://github.com/DeadmanXXXII/Ransomeware_Defense)     
+
+- [Repository 3 - CyberWarrior](https://github.com/DeadmanXXXII/CyberWarrior)                   
+
+- [Repository 4 - ZombieSlayer](https://github.com/DeadmanXXXII/ZombieSlayer)                   
+
+- [Repository 5 - QuickSwitch](https://github.com/DeadmanXXXII/QuickSwitch)                     
+
+- [Repository 6 - BasicSOC_Drills](https://github.com/DeadmanXXXII/BasicSOC_Drills)             
+
+- [Repository 7 - Dragons_Lair](https://github.com/DeadmanXXXII/Dragons_Lair)                   
+
+- [Repository 8 - Encryption](https://github.com/DeadmanXXXII/Encryption)                       
+
+- [Repository 9 - Decryption](https://github.com/DeadmanXXXII/Decryption)
+
+
+#### Secure Servers
+
+List of local and cloud servers with secure architecture and configurations.
+
+- [Repository 1 - MySQL_AWS-RDS_Server](https://github.com/DeadmanXXXII/MySql_AWS-RDS_Secure_Server)
+
+- [Repository 2 - nginx_server_conf-files](https://github.com/DeadmanXXXII/nginx_server_conf-files)  
+
+
+- [Repository 3 - Postgre_SQL_Azure](https://github.com/DeadmanXXXII/PostgreSQL_Azure_server)  
+
+
+- [Repository 4 - Maria_GCP](https://github.com/DeadmanXXXII/Maria_GCP)  
+
+- [Repository 5 - H2C_Servers](https://github.com/DeadmanXXXII/H2C_Servers)  
+
+                                
+#### Information-Transitions   
+
+Moves data from one place to another often altering it.
+
+- [Repository 1 - GypsysGrab_info-transit](https://github.com/DeadmanXXXII/GypsysGrab_info-transit) 
+
+- [Repository 2 - Ansible_instrucions](https://github.com/DeadmanXXXII/Ansible_instrucions)     
+
+- [Repository 3 - Cloud_decision_making_units](https://github.com/DeadmanXXXII/Cloud_decision_making_units)
+
+- [Repository 4 - GitNav](https://github.com/DeadmanXXXII/GitNav)
+ 
+- [Repository 5 - Applied](https://github.com/DeadmanXXXII/Applied)
+
+ 
+#### Blockchains          
+
+These all produce blocks, values, hashes and tokens. Most you have to input the metadata after creation.
+One can create an ootb cryptocurrency that can be ran on a windows terminal.
+
+- [Repository 1 - Metaverse-and-Components](https://github.com/DeadmanXXXII/Metaverse-and-Components)  
+
+- [Repository 2 - Producing_Blocks](https://github.com/DeadmanXXXII/Producing_Blocks)           
+
+- [Repository 3 - Token_Images_metadata](https://github.com/DeadmanXXXII/Token_Images_metadata) 
+
+- [Repository 4 - token-list](https://github.com/DeadmanXXXII/token-list)   
+             
+                                 
+#### Games     
+
+How I learned to code.                                     
+- [Repository 1 - Code-Yourself-Games](https://github.com/DeadmanXXXII/Code-Yourself-Games)   
+
+                                       
+#### Misc                     
+
+- [Repository 1 - Labyrinth_Dev-Betas](https://github.com/DeadmanXXXII/Labyrinth_Dev-Betas)     
+
+- [Repository 2 - In-Devops](https://github.com/DeadmanXXXII/In-Devops)                         
+
+- [Repository 3 - Free_Proxy_List](https://github.com/DeadmanXXXII/Free_Proxy_List)             
+
+- [Repository 4 - 5-day-coding-challenge](https://github.com/DeadmanXXXII/5-day-coding-challenge)
+
+- [Repository 5 - UniversalMatrix](https://github.com/DeadmanXXXII/UniversalMatrix)
+
+- [Repository 6 - Hunter](https://github.com/DeadmanXXXII/Hunter-HunterGPT)
 
 
 #### CLI's
-       
-Operating system CLI's:              
+
+Operating system CLI's and Terminals I have experience in:     
+
 - [Repository 1 - Cmdprompt](https://github.com/DeadmanXXXII/Cmdprompt)   
 
 - [Repository 2 - Powershell](https://github.com/DeadmanXXXII/Powershell)        
@@ -137,129 +275,4 @@ Quantum:
 - [Repository 48 - Inspire](https://github.com/DeadmanXXXII/Inspire)
 
 - [Repository 49 - t|ket](https://github.com/DeadmanXXXII/t-ket)
-
-                                                                                     
-#### Attack            
-
-- [Repository 1 - Stuxnet](https://github.com/DeadmanXXXII/Stuxnet)                             
-
-- [Repository 2 - Net-Traveler](https://github.com/DeadmanXXXII/Net-traveler)                   
-
-- [Repository 3 - Sybil_0day](https://github.com/DeadmanXXXII/Sybil)                            
-
-- [Repository 4 - Shamoon](https://github.com/DeadmanXXXII/Shamoon)                             
-
-- [Repository 5 - Disruption_0Day](https://github.com/DeadmanXXXII/Disruption)                  
-
-- [Repository 6 - Token_Attacks](https://github.com/DeadmanXXXII/Token_Attacks)                 
-
-- [Repository 7 - Frankenstein_0day](https://github.com/DeadmanXXXII/Frankenstein)              
-
-- [Repository 8 - LOLsec_0day](https://github.com/DeadmanXXXII/LOLsec)                          
-
-- [Repository 9 - Gypsy'sGrab_0Day](https://github.com/DeadmanXXXII/GypsysGrab_Attack)          
-
-- [Repository 10 - Ransomeware-0Day](https://github.com/DeadmanXXXII/Ransomeware)               
-
-- [Repository 11 - Websocket_CLI](https://github.com/DeadmanXXXII/Web_Socket_Command_CLI)       
-
-- [Repository 12 - KubeCloud_0Day](https://github.com/DeadmanXXXII/Kubecloud)                   
-
-- [Repository 13 - BlackMambaC2](https://github.com/DeadmanXXXII/BlackMamba)                    
-
-- [Repository 14 - Clickjacks](https://github.com/DeadmanXXXII/Clickjacking)                    
-
-- [Repository 15 - Shell_Don](https://github.com/DeadmanXXXII/Shell_Don)                        
-
-- [Repository 16 - TheZoo Malware_Education](https://github.com/DeadmanXXXII/TheZoo)            
-
-- [Repository 17 - Cookie_Monster](https://github.com/DeadmanXXXII/Cookie_Monster)
-
-- [Repository 18 - Cipher_Block_Scan](https://github.com/DeadmanXXXII/Ciphe_block_scanner)
-
-- [Repository 19 - Scraped](https://github.com/DeadmanXXXII/Scraped)  
-
-- [Repository 20 - SQL_injections](https://github.com/DeadmanXXXII/SQL-injections)  
-
-- [Repository 21 - Google_Dorks](https://github.com/DeadmanXXXII/Dorks)  
-
-
-                            
-#### Defence       
-
-- [Repository 1 - Labyrinth](https://github.com/DeadmanXXXII/Labyrinth)                         
-
-- [Repository 2 - Ransomeware_Defense](https://github.com/DeadmanXXXII/Ransomeware_Defense)     
-
-- [Repository 3 - CyberWarrior](https://github.com/DeadmanXXXII/CyberWarrior)                   
-
-- [Repository 4 - ZombieSlayer](https://github.com/DeadmanXXXII/ZombieSlayer)                   
-
-- [Repository 5 - QuickSwitch](https://github.com/DeadmanXXXII/QuickSwitch)                     
-
-- [Repository 6 - BasicSOC_Drills](https://github.com/DeadmanXXXII/BasicSOC_Drills)             
-
-- [Repository 7 - Dragons_Lair](https://github.com/DeadmanXXXII/Dragons_Lair)                   
-
-- [Repository 8 - Encryption](https://github.com/DeadmanXXXII/Encryption)                       
-
-- [Repository 9 - Decryption](https://github.com/DeadmanXXXII/Decryption)
-
-
-#### Secure Servers
-
-- [Repository 1 - MySQL_AWS-RDS_Server](https://github.com/DeadmanXXXII/MySql_AWS-RDS_Secure_Server)
-
-- [Repository 2 - nginx_server_conf-files](https://github.com/DeadmanXXXII/nginx_server_conf-files)  
-
-
-- [Repository 3 - Postgre_SQL_Azure](https://github.com/DeadmanXXXII/PostgreSQL_Azure_server)  
-
-
-- [Repository 4 - Maria_GCP](https://github.com/DeadmanXXXII/Maria_GCP)  
-
-- [Repository 5 - H2C_Servers](https://github.com/DeadmanXXXII/H2C_Servers)  
-
-                                
-#### Information-Transitions      
-
-- [Repository 1 - GypsysGrab_info-transit](https://github.com/DeadmanXXXII/GypsysGrab_info-transit) 
-
-- [Repository 2 - Ansible_instrucions](https://github.com/DeadmanXXXII/Ansible_instrucions)     
-
-- [Repository 3 - Cloud_decision_making_units](https://github.com/DeadmanXXXII/Cloud_decision_making_units)
-
-- [Repository 4 - GitNav](https://github.com/DeadmanXXXII/GitNav)
- 
-- [Repository 5 - Applied](https://github.com/DeadmanXXXII/Applied)
-
- 
-#### Blockchains            
-
-- [Repository 1 - Metaverse-and-Components](https://github.com/DeadmanXXXII/Metaverse-and-Components)  
-
-- [Repository 2 - Producing_Blocks](https://github.com/DeadmanXXXII/Producing_Blocks)           
-
-- [Repository 3 - Token_Images_metadata](https://github.com/DeadmanXXXII/Token_Images_metadata) 
-
-- [Repository 4 - token-list](https://github.com/DeadmanXXXII/token-list)   
-             
-                                 
-#### Games                          
-                                     
-- [Repository 1 - Code-Yourself-Games](https://github.com/DeadmanXXXII/Code-Yourself-Games)   
-
-                                       
-#### Misc                     
-
-- [Repository 1 - Labyrinth_Dev-Betas](https://github.com/DeadmanXXXII/Labyrinth_Dev-Betas)     
-
-- [Repository 2 - In-Devops](https://github.com/DeadmanXXXII/In-Devops)                         
-
-- [Repository 3 - Free_Proxy_List](https://github.com/DeadmanXXXII/Free_Proxy_List)             
-
-- [Repository 4 - 5-day-coding-challenge](https://github.com/DeadmanXXXII/5-day-coding-challenge)
-
-- [Repository 5 - UniversalMatrix](https://github.com/DeadmanXXXII/UniversalMatrix)
-
-- [Repository 6 - Hunter](https://github.com/DeadmanXXXII/Hunter-HunterGPT)
+              

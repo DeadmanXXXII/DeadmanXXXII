@@ -66,6 +66,8 @@ My custom and pre-built matrix of script attacks. If I'm the only collaborative 
 
 - [Repository 23 - APImapi](https://github.com/DeadmanXXXII/APImapi)
 
+- [Repository 24 - Tegridy](https://github.com/DeadmanXXXII/Tegridy)
+
                             
 #### Defence   
 

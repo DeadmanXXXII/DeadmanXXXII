@@ -71,7 +71,10 @@ My custom and pre-built matrix of script attacks. If I'm the only collaborative 
 - [Repository 25 - OnionFarm](https://github.com/DeadmanXXXII/OnionFarm)
 
 - [Repository 26 - GitDos](https://github.com/DeadmanXXXII/GitDos)
-                            
+
+- [Repository 27 - Kraken](https://github.com/DeadmanXXXII/Kraken)
+
+
 #### Defence   
 
 I built my own defense systems too most are integrable with other services including task managers and boot sequences.

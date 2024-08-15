@@ -39,7 +39,7 @@ My custom and pre-built matrix of script attacks. If I'm the only collaborative 
 
 - [Repository 9 - Gypsy'sGrab_0Day](https://github.com/DeadmanXXXII/GypsysGrab_Attack)          
 
-- [Repository 10 - Ransomeware-0Day](https://github.com/DeadmanXXXII/Ransomeware)               
+- [Repository 10 - Ransomeware_0Day](https://github.com/DeadmanXXXII/Ransomeware)               
 
 - [Repository 11 - Websocket_CLI](https://github.com/DeadmanXXXII/Web_Socket_Command_CLI)       
 

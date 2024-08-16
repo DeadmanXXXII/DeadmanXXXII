@@ -74,6 +74,8 @@ My custom and pre-built matrix of script attacks. If I'm the only collaborative 
 
 - [Repository 27 - Kraken](https://github.com/DeadmanXXXII/Kraken)
 
+- [Repository 28 - Double Barrel](https://github.com/DeadmanXXXII/Double_Barrel)
+
 
 #### Defence   
 

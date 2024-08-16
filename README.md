@@ -66,15 +66,19 @@ My custom and pre-built matrix of script attacks. If I'm the only collaborative 
 
 - [Repository 23 - APImapi](https://github.com/DeadmanXXXII/APImapi)
 
-- [Repository 24 - Tegridy](https://github.com/DeadmanXXXII/Tegridy)
+- [Repository 24 - Tegridy 0day](https://github.com/DeadmanXXXII/Tegridy)
 
 - [Repository 25 - OnionFarm](https://github.com/DeadmanXXXII/OnionFarm)
 
-- [Repository 26 - GitDos](https://github.com/DeadmanXXXII/GitDos)
+- [Repository 26 - GitDos 0day](https://github.com/DeadmanXXXII/GitDos)
 
-- [Repository 27 - Kraken](https://github.com/DeadmanXXXII/Kraken)
+- [Repository 27 - Kraken 0day](https://github.com/DeadmanXXXII/Kraken)
 
-- [Repository 28 - Double Barrel](https://github.com/DeadmanXXXII/Double_Barrel)
+- [Repository 28 - Double Barrel 0day](https://github.com/DeadmanXXXII/Double_Barrel)
+
+- [Repository 29 - Clipped 0day](https://github.com/DeadmanXXXII/Clipped)
+
+
 
 
 #### Defence   

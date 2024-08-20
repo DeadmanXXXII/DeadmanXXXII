@@ -39,7 +39,7 @@ My custom and pre-built matrix of script attacks. If I'm the only collaborative 
 
 - [Repository 9 - Gypsy'sGrab 0Day](https://github.com/DeadmanXXXII/GypsysGrab_Attack)          
 
-- [Repository 10 - Ransomeware 0Day](https://github.com/DeadmanXXXII/Ransomeware)               
+- [Repository 10 - Ransomware 0Day](https://github.com/DeadmanXXXII/Ransomeware)               
 
 - [Repository 11 - Websocket_CLI](https://github.com/DeadmanXXXII/Web_Socket_Command_CLI)       
 
@@ -51,7 +51,7 @@ My custom and pre-built matrix of script attacks. If I'm the only collaborative 
 
 - [Repository 15 - Shell_Don](https://github.com/DeadmanXXXII/Shell_Don)                        
 
-- [Repository 16 - TheZoo Malware_Education](https://github.com/DeadmanXXXII/TheZoo)            
+- [Repository 16 - TheZoo](https://github.com/DeadmanXXXII/TheZoo)            
 
 - [Repository 17 - Cookie_Monster](https://github.com/DeadmanXXXII/Cookie_Monster)
 
@@ -87,12 +87,12 @@ My custom and pre-built matrix of script attacks. If I'm the only collaborative 
 
 #### Defence   
 
-I built my own defense systems too most are integrable with other services including task managers and boot sequences.
+I built my own defense systems too. Most are integrable with other services including task managers and boot sequences.
 
 
 - [Repository 1 - Labyrinth](https://github.com/DeadmanXXXII/Labyrinth)                         
 
-- [Repository 2 - Ransomeware_Defense](https://github.com/DeadmanXXXII/Ransomeware_Defense)     
+- [Repository 2 - Ransomware Defense](https://github.com/DeadmanXXXII/Ransomeware_Defense)     
 
 - [Repository 3 - CyberWarrior](https://github.com/DeadmanXXXII/CyberWarrior)                   
 

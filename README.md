@@ -25,25 +25,25 @@ My custom and pre-built matrix of script attacks. If I'm the only collaborative 
 
 - [Repository 2 - Net-Traveler](https://github.com/DeadmanXXXII/Net-traveler)                   
 
-- [Repository 3 - Sybil_0day](https://github.com/DeadmanXXXII/Sybil)                            
+- [Repository 3 - Sybil 0day](https://github.com/DeadmanXXXII/Sybil)                            
 
 - [Repository 4 - Shamoon](https://github.com/DeadmanXXXII/Shamoon)                             
 
-- [Repository 5 - Disruption_0Day](https://github.com/DeadmanXXXII/Disruption)                  
+- [Repository 5 - Disruption 0Day](https://github.com/DeadmanXXXII/Disruption)                  
 
 - [Repository 6 - Token_Attacks](https://github.com/DeadmanXXXII/Token_Attacks)                 
 
-- [Repository 7 - Frankenstein_0day](https://github.com/DeadmanXXXII/Frankenstein)              
+- [Repository 7 - Frankenstein 0day](https://github.com/DeadmanXXXII/Frankenstein)              
 
-- [Repository 8 - LOLsec_0day](https://github.com/DeadmanXXXII/LOLsec)                          
+- [Repository 8 - LOLsec 0day](https://github.com/DeadmanXXXII/LOLsec)                          
 
-- [Repository 9 - Gypsy'sGrab_0Day](https://github.com/DeadmanXXXII/GypsysGrab_Attack)          
+- [Repository 9 - Gypsy'sGrab 0Day](https://github.com/DeadmanXXXII/GypsysGrab_Attack)          
 
-- [Repository 10 - Ransomeware_0Day](https://github.com/DeadmanXXXII/Ransomeware)               
+- [Repository 10 - Ransomeware 0Day](https://github.com/DeadmanXXXII/Ransomeware)               
 
 - [Repository 11 - Websocket_CLI](https://github.com/DeadmanXXXII/Web_Socket_Command_CLI)       
 
-- [Repository 12 - KubeCloud_0Day](https://github.com/DeadmanXXXII/Kubecloud)                   
+- [Repository 12 - KubeCloud 0Day](https://github.com/DeadmanXXXII/Kubecloud)                   
 
 - [Repository 13 - BlackMambaC2](https://github.com/DeadmanXXXII/BlackMamba)                    
 

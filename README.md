@@ -2,8 +2,11 @@
 - 👀 I’m interested in Offensive Security.
 - I ❤️ Nethunter.
 
-# Navigation              
-                                                                            
+# Navigation 
+
+#### Pitch_Deck
+
+ - [Pitch Deck](https://github.com/DeadmanXXXII/Pitch_Deck)                                                                         
 Below is list of repositories, just click.
 
 #### Education

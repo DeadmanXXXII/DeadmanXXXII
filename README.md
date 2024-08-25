@@ -11,7 +11,7 @@
 #### Websites
 
 
- - [Wix based](https://the-mad-hatters-playgeound.com)
+ - [Wix based](https://the-mad-hatters-playground.com)
 
 
  - [Independent 🚧🏗️](https://deadmanxxxii.github.io)

@@ -8,6 +8,14 @@
 
  - [Pitch Deck](https://github.com/DeadmanXXXII/Pitch_Deck)
 
+#### Websites
+
+
+ - [Wix based](https://the-mad-hatters-playgeound.com)
+
+
+ - [Independent 🚧🏗️](https://deadmanxxxii.github.io)
+
                                
 Below is list of repositories, just click.
 

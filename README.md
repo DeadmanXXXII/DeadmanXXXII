@@ -14,7 +14,7 @@
  - [Wix based](https://the-mad-hatters-playground.com)
 
 
- - [Independent 🚧🏗️](https://deadmanxxxii.github.io)
+ - [Independent 🚧🏗️ (Looks better on Android.)](https://deadmanxxxii.github.io)
 
                                
 Below is list of repositories, just click.

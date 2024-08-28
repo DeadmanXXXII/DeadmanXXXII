@@ -16,7 +16,7 @@
 
  - [Independent 🚧🏗️ (Looks better on Android.)](https://deadmanxxxii.github.io)
 
--[Netlify 🏗️🚧](https://the-mad-hatters-playground.netlify.app)
+ - [Netlify 🏗️🚧](https://the-mad-hatters-playground.netlify.app)
 
                                
 Below is list of repositories, just click.

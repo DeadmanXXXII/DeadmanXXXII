@@ -16,7 +16,7 @@
 
  - [Independent 🚧🏗️ (Looks better on Android.)](https://deadmanxxxii.github.io)
 
- - [Netlify 🏗️🚧](https://the-mad-hatters-playground.netlify.app)
+ - [Netlify 🏗️🚧 (Looks better on Android.)](https://the-mad-hatters-playground.netlify.app)
 
                                
 Below is list of repositories, just click.
@@ -32,73 +32,6 @@ Computer science algorithms and concepts of use:
 - [Repository 1 - Algorithms](https://github.com/DeadmanXXXII/Algorithms)
 
 - [Repository 2 - Gyroscopes](https://github.com/DeadmanXXXII/Gyroscopes)                                                                    
-#### Attack            
-
-My custom and pre-built matrix of script attacks. If I'm the only collaborative I built it.
-
-- [Repository 1 - Stuxnet](https://github.com/DeadmanXXXII/Stuxnet)                             
-
-- [Repository 2 - Net-Traveler](https://github.com/DeadmanXXXII/Net-traveler)                   
-
-- [Repository 3 - Sybil 0day](https://github.com/DeadmanXXXII/Sybil)                            
-
-- [Repository 4 - Shamoon](https://github.com/DeadmanXXXII/Shamoon)                             
-
-- [Repository 5 - Disruption 0Day](https://github.com/DeadmanXXXII/Disruption)                  
-
-- [Repository 6 - Token_Attacks](https://github.com/DeadmanXXXII/Token_Attacks)                 
-
-- [Repository 7 - Frankenstein 0day](https://github.com/DeadmanXXXII/Frankenstein)              
-
-- [Repository 8 - LOLsec 0day](https://github.com/DeadmanXXXII/LOLsec)                          
-
-- [Repository 9 - Gypsy'sGrab 0Day](https://github.com/DeadmanXXXII/GypsysGrab_Attack)          
-
-- [Repository 10 - Ransomware 0Day](https://github.com/DeadmanXXXII/Ransomeware)               
-
-- [Repository 11 - Websocket_CLI](https://github.com/DeadmanXXXII/Web_Socket_Command_CLI)       
-
-- [Repository 12 - KubeCloud 0Day](https://github.com/DeadmanXXXII/Kubecloud)                   
-
-- [Repository 13 - BlackMambaC2](https://github.com/DeadmanXXXII/BlackMamba)                    
-
-- [Repository 14 - Clickjacks](https://github.com/DeadmanXXXII/Clickjacking)                    
-
-- [Repository 15 - Shell_Don](https://github.com/DeadmanXXXII/Shell_Don)                        
-
-- [Repository 16 - TheZoo](https://github.com/DeadmanXXXII/TheZoo)            
-
-- [Repository 17 - Cookie_Monster](https://github.com/DeadmanXXXII/Cookie_Monster)
-
-- [Repository 18 - Cipher_Block_Scan](https://github.com/DeadmanXXXII/Ciphe_block_scanner)
-
-- [Repository 19 - Scraped](https://github.com/DeadmanXXXII/Scraped)  
-
-- [Repository 20 - SQL_injections](https://github.com/DeadmanXXXII/SQL-injections)  
-
-- [Repository 21 - Google_Dorks](https://github.com/DeadmanXXXII/Dorks)  
-- [Repository 22 - SSHcheck](https://github.com/DeadmanXXXII/SSHcheck)
-
-- [Repository 23 - APImapi](https://github.com/DeadmanXXXII/APImapi)
-
-- [Repository 24 - Tegridy 0day](https://github.com/DeadmanXXXII/Tegridy)
-
-- [Repository 25 - OnionFarm](https://github.com/DeadmanXXXII/OnionFarm)
-
-- [Repository 26 - GitDos 0day](https://github.com/DeadmanXXXII/GitDos)
-
-- [Repository 27 - Kraken 0day](https://github.com/DeadmanXXXII/Kraken)
-
-- [Repository 28 - Double Barrel 0day](https://github.com/DeadmanXXXII/Double_Barrel)
-
-- [Repository 29 - Clipped 0day](https://github.com/DeadmanXXXII/Clipped)
-
-- [Repository 30 - Bitch 0day](https://github.com/DeadmanXXXII/Bitch)
-
-- [Repository 31 - Tsunami 0day](https://github.com/DeadmanXXXII/Tsunami)
-
-- [Repository 32 - Turbo](https://github.com/DeadmanXXXII/Turbo)
-
 
 #### Defence   
 
@@ -170,7 +103,75 @@ One can create an ootb cryptocurrency that can be ran on a windows terminal.
 
 - [Repository 3 - Token_Images_metadata](https://github.com/DeadmanXXXII/Token_Images_metadata) 
 
-- [Repository 4 - token-list](https://github.com/DeadmanXXXII/token-list)   
+- [Repository 4 - token-list](https://github.com/DeadmanXXXII/token-list)
+
+
+#### Attack            
+
+My custom and pre-built matrix of script attacks. If I'm the only collaborative I built it.
+
+- [Repository 1 - Stuxnet](https://github.com/DeadmanXXXII/Stuxnet)                             
+
+- [Repository 2 - Net-Traveler](https://github.com/DeadmanXXXII/Net-traveler)                   
+
+- [Repository 3 - Sybil 0day](https://github.com/DeadmanXXXII/Sybil)                            
+
+- [Repository 4 - Shamoon](https://github.com/DeadmanXXXII/Shamoon)                             
+
+- [Repository 5 - Disruption 0Day](https://github.com/DeadmanXXXII/Disruption)                  
+
+- [Repository 6 - Token_Attacks](https://github.com/DeadmanXXXII/Token_Attacks)                 
+
+- [Repository 7 - Frankenstein 0day](https://github.com/DeadmanXXXII/Frankenstein)              
+
+- [Repository 8 - LOLsec 0day](https://github.com/DeadmanXXXII/LOLsec)                          
+
+- [Repository 9 - Gypsy'sGrab 0Day](https://github.com/DeadmanXXXII/GypsysGrab_Attack)          
+
+- [Repository 10 - Ransomware 0Day](https://github.com/DeadmanXXXII/Ransomeware)               
+
+- [Repository 11 - Websocket_CLI](https://github.com/DeadmanXXXII/Web_Socket_Command_CLI)       
+
+- [Repository 12 - KubeCloud 0Day](https://github.com/DeadmanXXXII/Kubecloud)                   
+
+- [Repository 13 - BlackMambaC2](https://github.com/DeadmanXXXII/BlackMamba)                    
+
+- [Repository 14 - Clickjacks](https://github.com/DeadmanXXXII/Clickjacking)                    
+
+- [Repository 15 - Shell_Don](https://github.com/DeadmanXXXII/Shell_Don)                        
+
+- [Repository 16 - TheZoo](https://github.com/DeadmanXXXII/TheZoo)            
+
+- [Repository 17 - Cookie_Monster](https://github.com/DeadmanXXXII/Cookie_Monster)
+
+- [Repository 18 - Cipher_Block_Scan](https://github.com/DeadmanXXXII/Ciphe_block_scanner)
+
+- [Repository 19 - Scraped](https://github.com/DeadmanXXXII/Scraped)  
+
+- [Repository 20 - SQL_injections](https://github.com/DeadmanXXXII/SQL-injections)  
+
+- [Repository 21 - Google_Dorks](https://github.com/DeadmanXXXII/Dorks)  
+- [Repository 22 - SSHcheck](https://github.com/DeadmanXXXII/SSHcheck)
+
+- [Repository 23 - APImapi](https://github.com/DeadmanXXXII/APImapi)
+
+- [Repository 24 - Tegridy 0day](https://github.com/DeadmanXXXII/Tegridy)
+
+- [Repository 25 - OnionFarm](https://github.com/DeadmanXXXII/OnionFarm)
+
+- [Repository 26 - GitDos 0day](https://github.com/DeadmanXXXII/GitDos)
+
+- [Repository 27 - Kraken 0day](https://github.com/DeadmanXXXII/Kraken)
+
+- [Repository 28 - Double Barrel 0day](https://github.com/DeadmanXXXII/Double_Barrel)
+
+- [Repository 29 - Clipped 0day](https://github.com/DeadmanXXXII/Clipped)
+
+- [Repository 30 - Bitch 0day](https://github.com/DeadmanXXXII/Bitch)
+
+- [Repository 31 - Tsunami 0day](https://github.com/DeadmanXXXII/Tsunami)
+
+- [Repository 32 - Turbo](https://github.com/DeadmanXXXII/Turbo)
              
                                  
 #### Games     

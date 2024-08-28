@@ -172,6 +172,9 @@ My custom and pre-built matrix of script attacks. If I'm the only collaborative 
 - [Repository 31 - Tsunami 0day](https://github.com/DeadmanXXXII/Tsunami)
 
 - [Repository 32 - Turbo](https://github.com/DeadmanXXXII/Turbo)
+
+
+- [Repository 33 - HelpOut](https://github.com/DeadmanXXXII/HelpOut)
              
                                  
 #### Games     

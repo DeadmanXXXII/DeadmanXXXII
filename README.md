@@ -264,7 +264,7 @@ Networking and Virtualization:
 
 - [Repository 24 - Vbox](https://github.com/DeadmanXXXII/Vbox)
 
-- [Repository 25 - Vmware](https://github.com/DeadmanXXXII/Vmare)
+- [Repository 25 - Vmware](https://github.com/DeadmanXXXII/VMware)
 
 Servers:
 - [Repository 26 - Apache-2-mesos](https://github.com/DeadmanXXXII/Apache-2-mesos) 

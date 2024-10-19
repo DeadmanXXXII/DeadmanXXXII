@@ -8,6 +8,11 @@
 
  - [Unplugged](https://github.com/DeadmanXXXII/Gods-Eye)
 
+### Financial apps
+ - [Snarky](https://github.com/DeadmanXXXII/Snarky)
+
+ - [AlpineAlpaca](https://github.com/DeadmanXXXI/AlpineAlpaca)
+
 #### Pitch_Deck
 
  - [Pitch Deck](https://github.com/DeadmanXXXII/Pitch_Deck)

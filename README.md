@@ -11,7 +11,7 @@
 ### Financial apps
  - [Snarky](https://github.com/DeadmanXXXII/Snarky)
 
- - [AlpineAlpaca](https://github.com/DeadmanXXXI/AlpineAlpaca)
+ - [AlpineAlpaca](https://github.com/DeadmanXXXII/AlpineAlpaca)
 
 #### Pitch_Deck
 

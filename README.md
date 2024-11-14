@@ -4,6 +4,11 @@
 
 # Navigation 
 
+My e-book on sale on KDP and [Lulu](https://www.lulu.com/shop/deadman-xxxii/an-introduction-to-cybersecurity/ebook/product-m2q8795.html?page=1&pageSize=4):
+
+![Book cover](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Book_Cover.jpg)
+
+
 ## Unplugged PoC's
 
  - [Unplugged](https://github.com/DeadmanXXXII/Gods-Eye)

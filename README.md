@@ -43,6 +43,8 @@ Below is list of repositories, just click.
 
 - [Repository 1 - Free_Education](https://github.com/DeadmanXXXII/Free_Education)
 
+- [Repository 2 - NTHW](https://github.com/notthehiddenwiki/NTHW)
+
 #### Quick Tools
 
 - [Repository 1 - QuickTools](https://github.com/DeadmanXXXII/Useful-tools)

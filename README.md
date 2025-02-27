@@ -108,11 +108,6 @@ My custom and pre-built matrix of script attacks. If I'm the only collaborative 
 
 - [Repository 48 - Encodings_for MPL](https://github.com/DeadmanXXXII/Encodings)
 
-My e-book on sale on KDP, Google books and [Lulu](https://www.lulu.com/shop/deadman-xxxii/an-introduction-to-cybersecurity/ebook/product-m2q8795.html?page=1&pageSize=4):
-
-![Book cover](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Book_Cover.jpg)
-
-
 ## Unplugged PoC's
 
  - [Unplugged](https://github.com/DeadmanXXXII/Gods-Eye)
@@ -377,4 +372,10 @@ Quantum:
 - [Repository 48 - Inspire](https://github.com/DeadmanXXXII/Inspire)
 
 - [Repository 49 - t|ket](https://github.com/DeadmanXXXII/t-ket)
-              
+
+
+  
+
+My e-book on sale on KDP, Google books and [Lulu](https://www.lulu.com/shop/deadman-xxxii/an-introduction-to-cybersecurity/ebook/product-m2q8795.html?page=1&pageSize=4):
+
+![Book cover](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/Book_Cover.jpg)

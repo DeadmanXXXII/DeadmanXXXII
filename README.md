@@ -7,7 +7,7 @@
 ## Moving Attck back to the top due to some exciting new additions recently.
 
 
-#### Check 37-48
+#### Check 37-49
 #### Attack            
 
 My custom and pre-built matrix of script attacks. If I'm the only collaborative I built it.
@@ -107,6 +107,8 @@ My custom and pre-built matrix of script attacks. If I'm the only collaborative 
 - [Repository 47 - XSS QFPL](https://github.com/DeadmanXXXII/XSS)
 
 - [Repository 48 - Encodings_for MPL](https://github.com/DeadmanXXXII/Encodings)
+
+- [Repository 49 - NetHunter](https://github.com/DeadmanXXXII/Nethunter_backups/releases)
 
 ## Unplugged PoC's
 

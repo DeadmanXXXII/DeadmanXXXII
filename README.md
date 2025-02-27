@@ -217,6 +217,22 @@ My custom and pre-built matrix of script attacks. If I'm the only collaborative 
 - [Repository 40 - XSSWorms](https://github.com/DeadmanXXXII/XSSworms)
 
 - [Repository 41 - Cobalt-Strike](https://github.com/DeadmanXXXII/Cobalt-Strike)
+
+- [Repository 42 - Clickjack_df_bypass](https://github.com/DeadmanXXXII/Clickjacks-Def-By)
+
+- [Repository 43 - AWSinitialenum](https://github.com/DeadmanXXXII/AWSinitialenum)
+
+- [Repository 44 - KubeCloud_Azure](https://github.com/DeadmanXXXII/KCA)
+
+- [Repository 45 - PyBuster_Dev](https://github.com/DeadmanXXXII/PyBusterDev)
+
+- [Repository 46 - Mr_Mime](https://github.com/DeadmanXXXII/Mr.Mime)
+
+- [Repository 47 - XSS QFPL](https://github.com/DeadmanXXXII/XSS)
+
+- [Repository 48 - Encodings_for MPL](https://github.com/DeadmanXXXII/Encodings)
+
+
                                  
 #### Games     
 

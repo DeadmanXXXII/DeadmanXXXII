@@ -7,8 +7,8 @@
 ## Moving Attck back to the top due to some exciting new additions recently.
 
 
-#### Check 37-49
-#### Definitely check 50
+#### Check 37-52
+#### Definitely check 50, 51 and 52
 #### Attack            
 
 My custom and pre-built matrix of script attacks. If I'm the only collaborative I built it.
@@ -112,6 +112,10 @@ My custom and pre-built matrix of script attacks. If I'm the only collaborative 
 - [Repository 49 - NetHunter](https://github.com/DeadmanXXXII/Nethunter_backups/releases)
 
 - [Repository 50 - Project: NEMESIS](https://github.com/DeadmanXXXII/Nemesis)
+
+- [Repository 51 - Ransomware Database](https://github.com/DeadmanXXXII/Ransomware-Database)
+
+- [Repository 52 - Ultimate-RAT-Collection](https://github.com/DeadmanXXXII/Ultimate-RAT-Collection)
 
 ## Unplugged PoC's
 

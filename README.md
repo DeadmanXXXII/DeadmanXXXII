@@ -8,6 +8,7 @@
 
 
 #### Check 37-49
+#### Definitely check 50
 #### Attack            
 
 My custom and pre-built matrix of script attacks. If I'm the only collaborative I built it.
@@ -109,6 +110,8 @@ My custom and pre-built matrix of script attacks. If I'm the only collaborative 
 - [Repository 48 - Encodings_for MPL](https://github.com/DeadmanXXXII/Encodings)
 
 - [Repository 49 - NetHunter](https://github.com/DeadmanXXXII/Nethunter_backups/releases)
+
+- [Repository 50 - Project: NEMESIS](https://github.com/DeadmanXXXII/Nemesis)
 
 ## Unplugged PoC's
 

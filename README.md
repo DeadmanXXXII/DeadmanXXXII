@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @DeadmanXXXII aka Blu Corbel.
 - 👀 I’m interested in Offensive Security.
 - I ❤️ Nethunter.
+- Please know a copy of the TorCurl.conf and instructions is present in OnionFarm and TorScraper.
 
 # Navigation 
 

@@ -5,6 +5,12 @@
 
 # Navigation 
 
+## A thesis to live forever
+
+- [Repository 1 - Title: Integrated Bioengineering Protocol for Accelerated Regeneration and Anti-Senescence via Sox2-Driven Cellular Reprogramming and Mitochondrial Optimization](https://github.com/DeadmanXXXII/Integrated-Bioengineering-for-Accelerated-Regeneration)
+
+
+
 ## Moving Attck back to the top due to some exciting new additions recently.
 
 

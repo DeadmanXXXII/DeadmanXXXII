@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @DeadmanXXXII aka Blu Corbel.
 - 👀 I’m interested in Offensive Security.
 - I ❤️ Nethunter.
+- "Never forget that Rome might not have been built in a day, but It could be felled that quickly."
 - Please know a copy of the TorCurl.conf and instructions is present in OnionFarm and TorScraper.
 
 # Navigation 

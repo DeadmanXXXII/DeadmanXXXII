@@ -32,6 +32,7 @@
 
 - [Hopp app](https://www.hopp.bio/the-mad-hatters-playground)
 
+- [Wix @TMHP.com](https://blucorbel31.wixsite.com/the-mad-hatters-play/)
  - [Independent 🚧🏗️ (Looks better on Android.)](https://deadmanxxxii.github.io)
 
  - [Netlify 🏗️🚧 (Looks better on Android.)](https://the-mad-hatters-playground.netlify.app)

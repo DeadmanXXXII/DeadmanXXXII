@@ -147,9 +147,6 @@ My custom and pre-built matrix of script attacks. If I'm the only collaborative 
 #### Websites
 
 
- - [Wix based](https://the-mad-hatters-playground.com)
-
-
  - [Independent 🚧🏗️ (Looks better on Android.)](https://deadmanxxxii.github.io)
 
  - [Netlify 🏗️🚧 (Looks better on Android.)](https://the-mad-hatters-playground.netlify.app)

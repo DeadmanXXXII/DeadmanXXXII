@@ -11,11 +11,78 @@
 - [Repository 1 - Title: Integrated Bioengineering Protocol for Accelerated Regeneration and Anti-Senescence via Sox2-Driven Cellular Reprogramming and Mitochondrial Optimization](https://github.com/DeadmanXXXII/Integrated-Bioengineering-for-Accelerated-Regeneration)
 
 
+## Unplugged PoC
 
-## Moving Attck back to the top due to some exciting new additions recently.
+ - [Unplugged](https://github.com/DeadmanXXXII/Gods-Eye)
+
+### Financial apps
+ - [Snarky](https://github.com/DeadmanXXXII/Snarky)
+
+ - [AlpineAlpaca](https://github.com/DeadmanXXXII/AlpineAlpaca)
+
+### APT Packages
+  
+ - [shell_don package](https://github.com/DeadmanXXXII/Packages)
+
+#### Pitch_Deck
+
+ - [Pitch Deck](https://github.com/DeadmanXXXII/Pitch_Deck)
+
+#### Websites
+
+- [Hopp app](https://www.hopp.bio/the-mad-hatters-playground)
+
+ - [Independent 🚧🏗️ (Looks better on Android.)](https://deadmanxxxii.github.io)
+
+ - [Netlify 🏗️🚧 (Looks better on Android.)](https://the-mad-hatters-playground.netlify.app)
+
+                               
+Below is list of repositories, just click.
+
+#### Education
+
+- [Repository 1 - Free_Education](https://github.com/DeadmanXXXII/Free_Education)
+
+- [Repository 2 - NTHW](https://github.com/notthehiddenwiki/NTHW)
+
+#### Quick Tools
+
+- [Repository 1 - QuickTools](https://github.com/DeadmanXXXII/Useful-tools)
 
 
-#### Check 37-53
+
+#### Algorithms 
+
+Computer science algorithms and concepts of use:
+
+- [Repository 1 - Algorithms](https://github.com/DeadmanXXXII/Algorithms)
+
+- [Repository 2 - Gyroscopes](https://github.com/DeadmanXXXII/Gyroscopes)                                                                    
+
+#### Defence   
+
+I built my own defense systems too. Most are integrable with other services including task managers and boot sequences.
+
+
+- [Repository 1 - Labyrinth](https://github.com/DeadmanXXXII/Labyrinth)                         
+
+- [Repository 2 - Ransomware Defense](https://github.com/DeadmanXXXII/Ransomeware_Defense)     
+
+- [Repository 3 - CyberWarrior](https://github.com/DeadmanXXXII/CyberWarrior)                   
+
+- [Repository 4 - ZombieSlayer](https://github.com/DeadmanXXXII/ZombieSlayer)                   
+
+- [Repository 5 - QuickSwitch](https://github.com/DeadmanXXXII/QuickSwitch)                     
+
+- [Repository 6 - BasicSOC_Drills](https://github.com/DeadmanXXXII/BasicSOC_Drills)             
+
+- [Repository 7 - Dragons_Lair](https://github.com/DeadmanXXXII/Dragons_Lair)                   
+
+- [Repository 8 - Encryption](https://github.com/DeadmanXXXII/Encryption)                       
+
+- [Repository 9 - Decryption](https://github.com/DeadmanXXXII/Decryption)
+
+#### New additions Check 37-53
 #### Definitely check 50, 51 and 52
 #### Attack            
 
@@ -126,77 +193,6 @@ My custom and pre-built matrix of script attacks. If I'm the only collaborative 
 - [Repository 52 - Ultimate-RAT-Collection](https://github.com/DeadmanXXXII/Ultimate-RAT-Collection)
 
 - [Repository 53 - TorScraper](https://github.com/DeadmanXXXII/TorScraper)
-
-## Unplugged PoC's
-
- - [Unplugged](https://github.com/DeadmanXXXII/Gods-Eye)
-
-### Financial apps
- - [Snarky](https://github.com/DeadmanXXXII/Snarky)
-
- - [AlpineAlpaca](https://github.com/DeadmanXXXII/AlpineAlpaca)
-
-### APT Packages
-  
- - [shell_don package](https://github.com/DeadmanXXXII/Packages)
-
-#### Pitch_Deck
-
- - [Pitch Deck](https://github.com/DeadmanXXXII/Pitch_Deck)
-
-#### Websites
-
-
- - [Independent 🚧🏗️ (Looks better on Android.)](https://deadmanxxxii.github.io)
-
- - [Netlify 🏗️🚧 (Looks better on Android.)](https://the-mad-hatters-playground.netlify.app)
-
-                               
-Below is list of repositories, just click.
-
-#### Education
-
-- [Repository 1 - Free_Education](https://github.com/DeadmanXXXII/Free_Education)
-
-- [Repository 2 - NTHW](https://github.com/notthehiddenwiki/NTHW)
-
-#### Quick Tools
-
-- [Repository 1 - QuickTools](https://github.com/DeadmanXXXII/Useful-tools)
-
-
-
-#### Algorithms 
-
-Computer science algorithms and concepts of use:
-
-- [Repository 1 - Algorithms](https://github.com/DeadmanXXXII/Algorithms)
-
-- [Repository 2 - Gyroscopes](https://github.com/DeadmanXXXII/Gyroscopes)                                                                    
-
-#### Defence   
-
-I built my own defense systems too. Most are integrable with other services including task managers and boot sequences.
-
-
-- [Repository 1 - Labyrinth](https://github.com/DeadmanXXXII/Labyrinth)                         
-
-- [Repository 2 - Ransomware Defense](https://github.com/DeadmanXXXII/Ransomeware_Defense)     
-
-- [Repository 3 - CyberWarrior](https://github.com/DeadmanXXXII/CyberWarrior)                   
-
-- [Repository 4 - ZombieSlayer](https://github.com/DeadmanXXXII/ZombieSlayer)                   
-
-- [Repository 5 - QuickSwitch](https://github.com/DeadmanXXXII/QuickSwitch)                     
-
-- [Repository 6 - BasicSOC_Drills](https://github.com/DeadmanXXXII/BasicSOC_Drills)             
-
-- [Repository 7 - Dragons_Lair](https://github.com/DeadmanXXXII/Dragons_Lair)                   
-
-- [Repository 8 - Encryption](https://github.com/DeadmanXXXII/Encryption)                       
-
-- [Repository 9 - Decryption](https://github.com/DeadmanXXXII/Decryption)
-
 
 #### Secure Servers
 

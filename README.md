@@ -41,6 +41,12 @@
                                
 Below is list of repositories, just click.
 
+#### Games     
+                              
+- [Repository 1 - Code-Yourself-Games](https://github.com/DeadmanXXXII/Code-Yourself-Games)
+
+How I learned to code 👆. Complete these before jumping into the free education repository. 👇
+
 #### Education
 
 - [Repository 1 - Free_Education](https://github.com/DeadmanXXXII/Free_Education)
@@ -250,11 +256,6 @@ One can create an ootb cryptocurrency that can be ran on a windows terminal.
 - [Repository 4 - token-list](https://github.com/DeadmanXXXII/token-list)
 
 
-
-#### Games     
-
-How I learned to code.                                     
-- [Repository 1 - Code-Yourself-Games](https://github.com/DeadmanXXXII/Code-Yourself-Games)   
 
                                        
 #### Misc                     

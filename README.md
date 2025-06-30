@@ -10,7 +10,7 @@
 - [1.A thesis to live forever](#a-thesis-to-live-forever)
 - [2.Unplugged PoC](#unplugged-poc)
 - [3.Financial](#financial)
-- [4.APT packages](#packages)
+- [4.APT packages](#apt-packages)
 - [5.Websites @the-mad-hatters-playground.?](#websites-the-mad-hatters-playground)
 - [Education](#education)
 - [Algorithms](#algorithms)
@@ -22,24 +22,24 @@
 - [Defence](#defence)
 - [Attack](#attack)
 - [Games](#games)
-- [Secure servers](#Secure)
+- [Secure servers](#secure-servers)
 - [Book](#Book)
 
-## A thesis to live forever
+#### A thesis to live forever
 
 - [Repository 1 - Title: Integrated Bioengineering Protocol for Accelerated Regeneration and Anti-Senescence via Sox2-Driven Cellular Reprogramming and Mitochondrial Optimization](https://github.com/DeadmanXXXII/Integrated-Bioengineering-for-Accelerated-Regeneration)
 
 
-## Unplugged PoC
+#### Unplugged PoC
 
  - [Unplugged](https://github.com/DeadmanXXXII/Gods-Eye)
 
-### Financial apps
+#### Financial apps
  - [Snarky](https://github.com/DeadmanXXXII/Snarky)
 
  - [AlpineAlpaca](https://github.com/DeadmanXXXII/AlpineAlpaca)
 
-### APT Packages
+#### APT Packages
   
  - [shell_don package](https://github.com/DeadmanXXXII/Packages)
 

@@ -6,6 +6,21 @@
 
 # Navigation 
 
+```tbc
+## Table of Contents
+- [About](#about)
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+  - [Graphical User Interface (GUI) Mode](#graphical-user-interface-gui-mode)
+  - [Command-Line Interface (CLI) Mode](#command-line-interface-cli-mode)
+- [How It Works](#how-it-works)
+- [Disclaimer & Ethical Use](#disclaimer--ethical-use)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+```
 ## A thesis to live forever
 
 - [Repository 1 - Title: Integrated Bioengineering Protocol for Accelerated Regeneration and Anti-Senescence via Sox2-Driven Cellular Reprogramming and Mitochondrial Optimization](https://github.com/DeadmanXXXII/Integrated-Bioengineering-for-Accelerated-Regeneration)

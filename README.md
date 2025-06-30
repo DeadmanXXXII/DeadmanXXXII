@@ -6,21 +6,24 @@
 
 # Navigation 
 
-```tbc
 ## Table of Contents
-- [About](#about)
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-  - [Graphical User Interface (GUI) Mode](#graphical-user-interface-gui-mode)
-  - [Command-Line Interface (CLI) Mode](#command-line-interface-cli-mode)
-- [How It Works](#how-it-works)
-- [Disclaimer & Ethical Use](#disclaimer--ethical-use)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-```
+- [Information-Transitions](#information-transitions)
+- [Blockchains](#blockchains)
+- [Misc](#misc)
+- [CLI's](#clis)
+- [Quick Tools](#quick-tools)
+- [Defence](#defence)
+- [Attack](#attack)
+- [Algorithms](#algorithms)
+- [Websites @the-mad-hatters-playground.?](#websites-the-mad-hatters-playground)
+- [Games](#games)
+- [Education](#education)
+- [A thesis to live forever](#a-thesis-to-live-forever)
+- [Unplugged PoC](#unplugged-poc)
+- [Financial](#financial)
+- [Packages](#packages)
+
+
 ## A thesis to live forever
 
 - [Repository 1 - Title: Integrated Bioengineering Protocol for Accelerated Regeneration and Anti-Senescence via Sox2-Driven Cellular Reprogramming and Mitochondrial Optimization](https://github.com/DeadmanXXXII/Integrated-Bioengineering-for-Accelerated-Regeneration)
@@ -409,7 +412,7 @@ Quantum:
 - [Repository 49 - t|ket](https://github.com/DeadmanXXXII/t-ket)
 
 
-  
+# Book
 
 My e-book on sale on KDP, Google books and [Lulu](https://www.lulu.com/shop/deadman-xxxii/an-introduction-to-cybersecurity/ebook/product-m2q8795.html?page=1&pageSize=4):
 

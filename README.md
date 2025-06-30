@@ -8,12 +8,12 @@
 
 ## Table of Contents
 - [1.A thesis to live forever](#a-thesis-to-live-forever)
-- [Algorithms](#algorithms)
-- [Websites @the-mad-hatters-playground.?](#websites-the-mad-hatters-playground)
+- [2.Unplugged PoC](#unplugged-poc)
+- [3.Financial](#financial)
+- [4.APT packages](#packages)
+- [5.Websites @the-mad-hatters-playground.?](#websites-the-mad-hatters-playground)
 - [Education](#education)
-- [Unplugged PoC](#unplugged-poc)
-- [Financial](#financial)
-- [APT packages](#APT)
+- [Algorithms](#algorithms)
 - [Information-Transitions](#information-transitions)
 - [Blockchains](#blockchains)
 - [Misc](#misc)

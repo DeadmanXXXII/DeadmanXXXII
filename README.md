@@ -22,7 +22,9 @@
 - [Unplugged PoC](#unplugged-poc)
 - [Financial](#financial)
 - [Packages](#packages)
-
+- [APT packages](#APT)
+- [Secure servers](#Secure)
+- [Book](#Book)
 
 ## A thesis to live forever
 

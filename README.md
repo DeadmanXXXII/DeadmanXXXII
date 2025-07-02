@@ -227,6 +227,8 @@ My custom and pre-built matrix of script attacks. If I'm the only collaborative 
 
 - [Repository 54 - Poison](https://github.com/DeadmanXXXII/Poison)
 
+- [Repository 55 - SSTI-Command-Inection](https://github.com/DeadmanXXXII/SSTI-Command-Inection)
+
 #### Secure Servers
 
 List of local and cloud servers with secure architecture and configurations.

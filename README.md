@@ -232,6 +232,8 @@ My custom and pre-built matrix of script attacks. If I'm the only collaborative 
 
 - [Repository 55 - SSTI-Command-Inection](https://github.com/DeadmanXXXII/SSTI-Command-Inection)
 
+- [Repository 56 TORcurl.conf](https://github.com/DeadmanXXXII/TORcurl)
+
 #### Secure Servers
 
 List of local and cloud servers with secure architecture and configurations.

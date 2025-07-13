@@ -117,10 +117,6 @@ Repo 10 new addition.
 - [Repository 10 - Sanitized](https://github.com/DeadmanXXXII/Sanitized)
 
 
-
-
-#### New additions Check 37-53
-#### Definitely check 50, 51, 52 and 53
 #### Attack            
 
 My custom and pre-built matrix of script attacks. If I'm the only collaborative I built it.
@@ -165,77 +161,53 @@ My custom and pre-built matrix of script attacks. If I'm the only collaborative 
 
 - [Repository 20 - SQL_injections](https://github.com/DeadmanXXXII/SQL-injections)  
 
-- [Repository 21 - Google_Dorks](https://github.com/DeadmanXXXII/Dorks)  
+- [Repository 21 - Google_Dorks](https://github.com/DeadmanXXXII/Dorks)
+ 
 - [Repository 22 - SSHcheck](https://github.com/DeadmanXXXII/SSHcheck)
 
 - [Repository 23 - APImapi](https://github.com/DeadmanXXXII/APImapi)
 
-- [Repository 24 - Tegridy 0day](https://github.com/DeadmanXXXII/Tegridy)
+- [Repository 24 - OnionFarm](https://github.com/DeadmanXXXII/OnionFarm)
 
-- [Repository 25 - OnionFarm](https://github.com/DeadmanXXXII/OnionFarm)
+- [Repository 25 - PasswordSprayer](https://github.com/DeadmanXXXII/PasswordSprayer)
 
-- [Repository 26 - GitDos 0day](https://github.com/DeadmanXXXII/GitDos)
+- [Repository 26 - Immortal](https://github.com/DeadmanXXXII/Immortal)
 
-- [Repository 27 - Kraken 0day](https://github.com/DeadmanXXXII/Kraken)
+- [Repository 27 - Rainforest](https://github.com/DeadmanXXXII/Rainforest)
 
-- [Repository 28 - Double Barrel 0day](https://github.com/DeadmanXXXII/Double_Barrel)
+- [Repository 28 - XSSWorms](https://github.com/DeadmanXXXII/XSSworms)
 
-- [Repository 29 - Clipped 0day](https://github.com/DeadmanXXXII/Clipped)
+- [Repository 29 - Cobalt-Strike](https://github.com/DeadmanXXXII/Cobalt-Strike)
 
-- [Repository 30 - Bitch 0day](https://github.com/DeadmanXXXII/Bitch)
+- [Repository 30 - Clickjack_df_bypass](https://github.com/DeadmanXXXII/Clickjacks-Def-By)
 
-- [Repository 31 - Tsunami 0day](https://github.com/DeadmanXXXII/Tsunami)
+- [Repository 31 - AWSinitialenum](https://github.com/DeadmanXXXII/AWSinitialenum)
 
-- [Repository 32 - Turbo](https://github.com/DeadmanXXXII/Turbo)
+- [Repository 32 - KubeCloud_Azure](https://github.com/DeadmanXXXII/KCA)
 
+- [Repository 33 - PyBuster_Dev](https://github.com/DeadmanXXXII/PyBusterDev)
 
-- [Repository 33 - HelpOut](https://github.com/DeadmanXXXII/HelpOut)
+- [Repository 34 - Mr_Mime](https://github.com/DeadmanXXXII/Mr.Mime)
 
-- [Repository 34 - Face](https://github.com/DeadmanXXXII/Face)
+- [Repository 35 - XSS QFPL](https://github.com/DeadmanXXXII/XSS)
 
-- [Repository 35 - tttrrreelllllooo](https://github.com/DeadmanXXXII/Trello)
+- [Repository 36 - Encodings_for MPL](https://github.com/DeadmanXXXII/Encodings)
 
-- [Repository 36 - skooled](https://github.com/DeadmanXXXII/Skooled)
+- [Repository 37 - NetHunter](https://github.com/DeadmanXXXII/Nethunter_backups/releases)
 
-- [Repository 37 - PasswordSprayer](https://github.com/DeadmanXXXII/PasswordSprayer)
+- [Repository 38 - Project: NEMESIS](https://github.com/DeadmanXXXII/Nemesis)
 
-- [Repository 38 - Immortal](https://github.com/DeadmanXXXII/Immortal)
+- [Repository 39 - Ransomware Database](https://github.com/DeadmanXXXII/Ransomware-Database)
 
-- [Repository 39 - Rainforest](https://github.com/DeadmanXXXII/Rainforest)
+- [Repository 40 - Ultimate-RAT-Collection](https://github.com/DeadmanXXXII/Ultimate-RAT-Collection)
 
-- [Repository 40 - XSSWorms](https://github.com/DeadmanXXXII/XSSworms)
+- [Repository 41 - TorScraper](https://github.com/DeadmanXXXII/TorScraper)
 
-- [Repository 41 - Cobalt-Strike](https://github.com/DeadmanXXXII/Cobalt-Strike)
+- [Repository 42 - Poison](https://github.com/DeadmanXXXII/Poison)
 
-- [Repository 42 - Clickjack_df_bypass](https://github.com/DeadmanXXXII/Clickjacks-Def-By)
+- [Repository 43 - SSTI-Command-Inection](https://github.com/DeadmanXXXII/SSTI-Command-Inection)
 
-- [Repository 43 - AWSinitialenum](https://github.com/DeadmanXXXII/AWSinitialenum)
-
-- [Repository 44 - KubeCloud_Azure](https://github.com/DeadmanXXXII/KCA)
-
-- [Repository 45 - PyBuster_Dev](https://github.com/DeadmanXXXII/PyBusterDev)
-
-- [Repository 46 - Mr_Mime](https://github.com/DeadmanXXXII/Mr.Mime)
-
-- [Repository 47 - XSS QFPL](https://github.com/DeadmanXXXII/XSS)
-
-- [Repository 48 - Encodings_for MPL](https://github.com/DeadmanXXXII/Encodings)
-
-- [Repository 49 - NetHunter](https://github.com/DeadmanXXXII/Nethunter_backups/releases)
-
-- [Repository 50 - Project: NEMESIS](https://github.com/DeadmanXXXII/Nemesis)
-
-- [Repository 51 - Ransomware Database](https://github.com/DeadmanXXXII/Ransomware-Database)
-
-- [Repository 52 - Ultimate-RAT-Collection](https://github.com/DeadmanXXXII/Ultimate-RAT-Collection)
-
-- [Repository 53 - TorScraper](https://github.com/DeadmanXXXII/TorScraper)
-
-- [Repository 54 - Poison](https://github.com/DeadmanXXXII/Poison)
-
-- [Repository 55 - SSTI-Command-Inection](https://github.com/DeadmanXXXII/SSTI-Command-Inection)
-
-- [Repository 56 TORcurl.conf](https://github.com/DeadmanXXXII/TORcurl)
+- [Repository 44 TORcurl.conf](https://github.com/DeadmanXXXII/TORcurl)
 
 #### Secure Servers
 

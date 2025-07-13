@@ -2,7 +2,8 @@
 - 👀 I’m interested in Offensive Security.
 - I ❤️ Nethunter.
 - "Never forget that Rome might not have been built in a day, but It could be felled that quickly."
-- Please know a copy of the TorCurl.conf and instructions is present in OnionFarm and TorScraper.
+- Please know TorCurl.conf now has its own repo
+- [My own CVE hopefully](https://github.com/DeadmanXXXII/CVE_Resource-Exhaustion_By_Dos)
 
 # Navigation 
 

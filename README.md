@@ -78,6 +78,9 @@ How I learned to code 👆. Complete these before jumping into the free educatio
 - [Repository 1 - QuickTools](https://github.com/DeadmanXXXII/Useful-tools)
 
 
+- [Repository 2 - Wordlists](https://github.com/DeadmanXXXII/Wordlists)
+
+- [Repository 3 - Payloads All Of The Things (swisskyrepo)](https://github.com/DeadmanXXXII/PayloadsAllTheThings)
 
 #### Algorithms 
 

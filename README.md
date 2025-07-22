@@ -210,6 +210,9 @@ My custom and pre-built matrix of script attacks. If I'm the only collaborative 
 
 - [Repository 44 TORcurl.conf](https://github.com/DeadmanXXXII/TORcurl)
 
+- [Repository 45 Cookie-Thumper](https://github.com/DeadmanXXXII/Cookie-Thumper)
+
+
 #### Secure Servers
 
 List of local and cloud servers with secure architecture and configurations.

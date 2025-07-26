@@ -212,6 +212,11 @@ My custom and pre-built matrix of script attacks. If I'm the only collaborative 
 
 - [Repository 45 Cookie-Thumper](https://github.com/DeadmanXXXII/Cookie-Thumper)
 
+- [Repository 46 DeeDRAT 4554](https://github.com/DeadmanXXXII/DeeDRAT)
+
+- [Repository 47 ](https://github.com/DeadmanXXXII/RedTeamComms)
+
+- [Repository 48 Operational play books](https://github.com/DeadmanXXXII/)
 
 #### Secure Servers
 

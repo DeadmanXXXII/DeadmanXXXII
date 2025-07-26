@@ -216,7 +216,7 @@ My custom and pre-built matrix of script attacks. If I'm the only collaborative 
 
 - [Repository 47 ](https://github.com/DeadmanXXXII/RedTeamComms)
 
-- [Repository 48 Operational play books](https://github.com/DeadmanXXXII/)
+- [Repository 48 Operational play books](https://github.com/DeadmanXXXII/Operational-playbooks)
 
 #### Secure Servers
 

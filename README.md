@@ -283,6 +283,7 @@ One can create an ootb cryptocurrency that can be ran on a windows terminal.
 
 - [Repository 6 - Hunter](https://github.com/DeadmanXXXII/Hunter-HunterGPT)
 
+- [Repository 7 - Calendar App Free](https://github.com/DeadmanXXXII/Wolfy_Balto_and_Friends_Calendar)
 
 #### CLI's
 

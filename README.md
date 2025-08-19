@@ -218,6 +218,10 @@ My custom and pre-built matrix of script attacks. If I'm the only collaborative 
 
 - [Repository 48 Operational playbooks](https://github.com/DeadmanXXXII/Operational-playbooks)
 
+- [Repository 49 Forge audits](https://github.com/DeadmanXXXII/Forge_tests)
+
+- [Repository 50 Aptos Audits](https://github.com/DeadmanXXXII/Aptos_tests)
+
 #### Secure Servers
 
 List of local and cloud servers with secure architecture and configurations.

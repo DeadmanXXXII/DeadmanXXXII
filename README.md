@@ -8,33 +8,36 @@
 # Navigation 
 
 ## Table of Contents
-- [1.A thesis to live forever](#a-thesis-to-live-forever)
-- [2.Unplugged PoC](#unplugged-poc)
-- [3.Financial apps](#financial-apps)
-- [4.APT packages](#apt-packages)
-- [5.Pitch Deck](#pitch-deck)
-- [6.Websites @the-mad-hatters-playground.?](#websites-the-mad-hatters-playground)
-- [7.Games](#games)
-- [8.Free Education](#education)
-- [9.Quick Tools](#quick-tools)
-- [10.Algorithms for quantum interfaces](#algorithms)
-- [11.Defence](#defence)
-- [12.Attack](#attack)
-- [13.Secure servers](#secure-servers)
-- [14.Information-Transitions](#information-transitions)
-- [15.Blockchains](#blockchains)
-- [16.Misc](#misc)
-- [17.CLI's](#clis)
-- [18.Book](#Book)
+- [1. The Singularity Legality Internationally](#The-Singularity-Legality-Internationally)
+- [2.A thesis to live forever](#a-thesis-to-live-forever)
+- [3.Unplugged PoC](#unplugged-poc)
+- [4.Financial apps](#financial-apps)
+- [5.APT packages](#apt-packages)
+- [6.Pitch Deck](#pitch-deck)
+- [7.Websites @the-mad-hatters-playground.?](#websites-the-mad-hatters-playground)
+- [8.Games](#games)
+- [9.Free Education](#education)
+- [10.Quick Tools](#quick-tools)
+- [11.Algorithms for quantum interfaces](#algorithms)
+- [12.Defence](#defence)
+- [13.Attack](#attack)
+- [14.Secure servers](#secure-servers)
+- [15.Information-Transitions](#information-transitions)
+- [16.Blockchains](#blockchains)
+- [17.Misc](#misc)
+- [18.CLI's](#clis)
+- [19.Book](#Book)
+
+#### The Singularity Legality Internationally
+- [Title: The Singularity Legality Internationally a PhD thesis in international law](https://github.com/DeadmanXXXII/A_portion_of_the_singularity_legally)
 
 #### A thesis to live forever
 
-- [Repository 1 - Title: Integrated Bioengineering Protocol for Accelerated Regeneration and Anti-Senescence via Sox2-Driven Cellular Reprogramming and Mitochondrial Optimization](https://github.com/DeadmanXXXII/Integrated-Bioengineering-for-Accelerated-Regeneration)
+- [Title: Integrated Bioengineering Protocol for Accelerated Regeneration and Anti-Senescence via Sox2-Driven Cellular Reprogramming and Mitochondrial Optimization](https://github.com/DeadmanXXXII/Integrated-Bioengineering-for-Accelerated-Regeneration)
 
 
 #### Unplugged PoC
-
- - [Unplugged](https://github.com/DeadmanXXXII/Gods-Eye)
+ -[Unplugged](https://github.com/DeadmanXXXII/Gods-Eye)
 
 #### Financial apps
  - [Snarky](https://github.com/DeadmanXXXII/Snarky)

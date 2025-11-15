@@ -35,8 +35,7 @@
 
 
 #### Unplugged PoC
- -
-[Unplugged](https://github.com/DeadmanXXXII/Gods-Eye)
+ - [Unplugged](https://github.com/DeadmanXXXII/Gods-Eye)
 
 #### Financial apps
  - [Snarky](https://github.com/DeadmanXXXII/Snarky)

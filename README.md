@@ -214,38 +214,6 @@ https://github.com/DeadmanXXXII?tab=repositories
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DeadmanXXXII&show_icons=true&theme=github_dark">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeadmanXXXII&layout=compact&theme=github_dark">
-
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=DeadmanXXXII&theme=github-dark-blue">
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DeadmanXXXII&theme=darkhub&margin-w=15&margin-h=15">
-
-</p>
-
----
-
 # 📈 Activity Graph
 
 <p align="center">

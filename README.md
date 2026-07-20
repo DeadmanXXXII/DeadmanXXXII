@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Blu Corbel
+# 👋 Hi, I'm Blu Corbel aka DeadmanXXXII
 
 <h3 align="center">
 Offensive Security Researcher • Security Engineer • Open Source Developer

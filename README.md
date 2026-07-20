@@ -43,7 +43,8 @@
  - [AlpineAlpaca](https://github.com/DeadmanXXXII/AlpineAlpaca)
 
 #### APT Packages
-  
+
+ - [shell-audit (NEW)](https://github.com/DeadmanXXXII/shell-audit)
  - [shell_don package](https://github.com/DeadmanXXXII/Packages)
 
 #### Pitch_Deck

@@ -99,7 +99,7 @@ Offensive security automation, available on **PyPI**.
 
 | # | Username| Link |
 |---|---|---|
-|pypi ACC |🐍 DeadmanXXXII|https://pypi.org/user/DeadmanXXXII/|
+|🐍| DeadmanXXXII|https://pypi.org/user/DeadmanXXXII/|
 
 ---
 

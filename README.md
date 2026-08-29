@@ -48,6 +48,13 @@ My repositories here contain:
 
 # 🚀 Featured Projects
 
+🎓 Learning Tools
+
+| Repository | Description | Link |
+|---|---|---|
+| 📖 **Free education** | education resources | [Repo](https://github.com/DeadmanXXXII/Free_Education) | 
+
+
 | Project | Description | Link |
 |---|---|---|
 | 🌧 **Rainforest** | Cloud offensive security framework | [Repo](https://github.com/DeadmanXXXII/Rainforest) |
